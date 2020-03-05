@@ -632,7 +632,7 @@
 									</Title>
 									<Picture>
 										<xr:Ref>CommonPicture.Информация</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</Picture>
 									<FileDragMode>AsFile</FileDragMode>
 									<ContextMenu name="ДекорацияИконкаИнфоКонтекстноеМеню" id="416"/>

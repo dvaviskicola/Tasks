@@ -15,12 +15,12 @@
 			<Name>узЗагрузкаИзмененийИзХранилища</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Загрузка изменений из хранилища</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Loading from 1C Repository</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Загрузка изменений из хранилища</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -80,12 +80,12 @@
 					<Name>ВерсияПо</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>по</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>To</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>по</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -127,12 +127,12 @@
 					<Name>Конфигурация</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Конфигурация</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Configuration</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Конфигурация</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>

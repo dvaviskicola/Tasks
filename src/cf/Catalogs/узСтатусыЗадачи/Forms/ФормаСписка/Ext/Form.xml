@@ -201,12 +201,12 @@
 		<Command name="ПереместитьВверх" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Переместить вверх</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Move up</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Переместить вверх</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -215,12 +215,12 @@
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Переместить вверх</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Move up</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Переместить вверх</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -237,12 +237,12 @@
 		<Command name="ПереместитьВниз" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Переместить вниз</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Move down</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Переместить вниз</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -251,12 +251,12 @@
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Переместить вниз</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Move down</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Переместить вниз</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>

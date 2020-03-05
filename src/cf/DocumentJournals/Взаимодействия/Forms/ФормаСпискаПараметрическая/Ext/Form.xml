@@ -435,8 +435,7 @@
 										<CommandName>Form.Command.СоздатьЭлектронноеПисьмо</CommandName>
 										<Picture>
 											<xr:Ref>CommonPicture.ОтправитьЭлектронноеПисьмо</xr:Ref>
-											<xr:LoadTransparent>true</xr:LoadTransparent>
-											<xr:TransparentPixel x="6" y="2"/>
+											<xr:LoadTransparent>false</xr:LoadTransparent>
 										</Picture>
 										<Title>
 											<v8:item>
@@ -732,13 +731,13 @@
 													<TitleLocation>None</TitleLocation>
 													<HeaderPicture>
 														<xr:Ref>CommonPicture.ОтправитьЭлектронноеПисьмо</xr:Ref>
-														<xr:LoadTransparent>true</xr:LoadTransparent>
+														<xr:LoadTransparent>false</xr:LoadTransparent>
 													</HeaderPicture>
 													<Width>2</Width>
 													<HorizontalStretch>false</HorizontalStretch>
 													<ValuesPicture>
 														<xr:Ref>CommonPicture.Взаимодействия</xr:Ref>
-														<xr:LoadTransparent>true</xr:LoadTransparent>
+														<xr:LoadTransparent>false</xr:LoadTransparent>
 													</ValuesPicture>
 													<FileDragMode>AsFile</FileDragMode>
 													<ContextMenu name="НомерКартинкиКонтекстноеМеню" id="226"/>
@@ -838,7 +837,6 @@
 							<SearchStringLocation>None</SearchStringLocation>
 							<ViewStatusLocation>None</ViewStatusLocation>
 							<SearchControlLocation>None</SearchControlLocation>
-							<TreeSpecialSearch>false</TreeSpecialSearch>
 							<ContextMenu name="ДеревоВзаимодействийКонтекстноеМеню" id="107"/>
 							<AutoCommandBar name="ДеревоВзаимодействийКоманднаяПанель" id="108">
 								<Autofill>false</Autofill>
@@ -849,8 +847,7 @@
 										<CommandName>Form.Command.СоздатьЭлектронноеПисьмо</CommandName>
 										<Picture>
 											<xr:Ref>CommonPicture.ОтправитьЭлектронноеПисьмо</xr:Ref>
-											<xr:LoadTransparent>true</xr:LoadTransparent>
-											<xr:TransparentPixel x="6" y="2"/>
+											<xr:LoadTransparent>false</xr:LoadTransparent>
 										</Picture>
 										<Title>
 											<v8:item>
@@ -1107,7 +1104,7 @@
 													<EditMode>EnterOnInput</EditMode>
 													<HeaderPicture>
 														<xr:Ref>CommonPicture.ОтправитьЭлектронноеПисьмо</xr:Ref>
-														<xr:LoadTransparent>true</xr:LoadTransparent>
+														<xr:LoadTransparent>false</xr:LoadTransparent>
 													</HeaderPicture>
 													<Width>2</Width>
 													<HorizontalStretch>false</HorizontalStretch>
@@ -1530,6 +1527,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="Интервал" id="10">
 			<Title>
@@ -1581,6 +1579,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ИспользоватьПризнакРассмотрено" id="14">
 			<Title>

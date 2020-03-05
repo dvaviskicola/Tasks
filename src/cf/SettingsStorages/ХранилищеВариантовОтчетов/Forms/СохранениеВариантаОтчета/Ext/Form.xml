@@ -479,7 +479,6 @@
 							<SearchStringLocation>None</SearchStringLocation>
 							<ViewStatusLocation>None</ViewStatusLocation>
 							<SearchControlLocation>None</SearchControlLocation>
-							<TreeSpecialSearch>false</TreeSpecialSearch>
 							<ContextMenu name="ДеревоПодсистемКонтекстноеМеню" id="75"/>
 							<AutoCommandBar name="ДеревоПодсистемКоманднаяПанель" id="76">
 								<Autofill>false</Autofill>

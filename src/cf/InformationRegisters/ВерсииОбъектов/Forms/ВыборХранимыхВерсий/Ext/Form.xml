@@ -137,7 +137,6 @@
 								<ExcludedCommand>ShowRowRearrangement</ExcludedCommand>
 								<ExcludedCommand>Tree</ExcludedCommand>
 							</CommandSet>
-							<TreeSpecialSearch>false</TreeSpecialSearch>
 							<ContextMenu name="ДеревоВерсийКонтекстноеМеню" id="75">
 								<ChildItems>
 									<Button name="ДеревоВерсийКонтекстноеМенюОткрытьВерсию" id="108">
@@ -347,6 +346,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ДеревоВерсий" id="6">
 			<Title>

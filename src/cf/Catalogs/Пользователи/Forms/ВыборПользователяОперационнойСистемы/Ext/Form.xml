@@ -37,12 +37,12 @@
 		<UsualGroup name="ДоменыИПользователи" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Домены и пользователи</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Domains and users</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Домены и пользователи</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -51,12 +51,12 @@
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Домены и пользователи</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Domains and users</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Домены и пользователи</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -71,12 +71,12 @@
 				<UsualGroup name="ГруппаДомены" id="51">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Домены:</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Domains:</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Домены:</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -112,12 +112,12 @@
 							<BorderColor>style:BorderColor</BorderColor>
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Домены</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Domains</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Домены</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -207,12 +207,12 @@
 									<DataPath>СписокДоменов.ИмяДомена</DataPath>
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Домены</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Domains</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Домены</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -231,12 +231,12 @@
 				<UsualGroup name="ГруппаПользователи" id="49">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Пользователи:</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Users:</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Пользователи:</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -268,12 +268,12 @@
 							<BorderColor>style:BorderColor</BorderColor>
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Пользователи</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Users</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Пользователи</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -369,12 +369,12 @@
 									<DataPath>СписокПользователейТекущегоДомена.ИмяПользователя</DataPath>
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Пользователи</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Users</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Пользователи</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -397,12 +397,12 @@
 		<Attribute name="СписокДоменов" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Список доменов</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>List of domains</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Список доменов</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -416,12 +416,12 @@
 				<Column name="ИмяДомена" id="1">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Имя домена</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Domain name</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Имя домена</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -441,12 +441,12 @@
 		<Attribute name="СписокПользователейТекущегоДомена" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Список пользователей текущего домена</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>List of users of current domain</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Список пользователей текущего домена</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -460,12 +460,12 @@
 				<Column name="ИмяПользователя" id="1">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Имя пользователя</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>User name</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Имя пользователя</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -485,12 +485,12 @@
 		<Attribute name="ТаблицаДоменовИПользователей" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Таблица доменов и пользователей</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Table of domains and users</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Таблица доменов и пользователей</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -504,12 +504,12 @@
 		<Command name="Выбрать" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Выбрать</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Select</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Выбрать</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -518,12 +518,12 @@
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Выбрать пользователя операционной системы</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Select OS user</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Выбрать пользователя операционной системы</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>

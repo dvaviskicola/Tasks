@@ -67,7 +67,6 @@
 			<SearchStringLocation>None</SearchStringLocation>
 			<ViewStatusLocation>None</ViewStatusLocation>
 			<SearchControlLocation>None</SearchControlLocation>
-			<TreeSpecialSearch>false</TreeSpecialSearch>
 			<ContextMenu name="ДоступныеВидыОбъектовКонтекстноеМеню" id="14"/>
 			<AutoCommandBar name="ДоступныеВидыОбъектовКоманднаяПанель" id="15"/>
 			<ExtendedTooltip name="ДоступныеВидыОбъектовExtendedTooltip" id="27"/>

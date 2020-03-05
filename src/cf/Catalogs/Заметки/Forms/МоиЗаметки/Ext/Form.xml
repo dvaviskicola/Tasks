@@ -118,12 +118,12 @@
 					<ButtonGroup name="СписокКонтекстноеМенюГруппаВывод" id="33">
 						<Title>
 							<v8:item>
-								<v8:lang>ru</v8:lang>
-								<v8:content>Вывод</v8:content>
-							</v8:item>
-							<v8:item>
 								<v8:lang>en</v8:lang>
 								<v8:content>Output</v8:content>
+							</v8:item>
+							<v8:item>
+								<v8:lang>ru</v8:lang>
+								<v8:content>Вывод</v8:content>
 							</v8:item>
 							<v8:item>
 								<v8:lang>ro</v8:lang>

@@ -15,12 +15,12 @@
 		<Pages name="ГруппаСтраницы" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Группа страницы</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Group pages</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа страницы</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -29,12 +29,12 @@
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Группа страницы</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Group pages</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа страницы</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -75,12 +75,12 @@
 					</Title>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа настройки</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Group settings</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа настройки</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -144,12 +144,12 @@
 								<UsualGroup name="ГруппаОтборы" id="471">
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Отборы</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Filters</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Отборы</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -174,12 +174,12 @@
 											<DataPath>КомпоновщикНастроекКомпоновкиДанных.Settings.Filter</DataPath>
 											<Title>
 												<v8:item>
-													<v8:lang>ru</v8:lang>
-													<v8:content>Отборы</v8:content>
-												</v8:item>
-												<v8:item>
 													<v8:lang>en</v8:lang>
 													<v8:content>Filters</v8:content>
+												</v8:item>
+												<v8:item>
+													<v8:lang>ru</v8:lang>
+													<v8:content>Отборы</v8:content>
 												</v8:item>
 												<v8:item>
 													<v8:lang>ro</v8:lang>
@@ -457,12 +457,12 @@
 		<Attribute name="КомпоновщикНастроекКомпоновкиДанных" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Компоновщик настроек компоновки данных</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Options compositor of data composition</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Компоновщик настроек компоновки данных</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -519,7 +519,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.узСпринт</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>КомандаДобавитьВСпринт</Action>
 			<Representation>TextPicture</Representation>
@@ -550,12 +550,12 @@
 		<Command name="КомандаУстановитьСтандартныеНастройки" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Установить стандартные настройки</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Set standard settings</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Установить стандартные настройки</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -586,7 +586,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.узНеСледитьЗаЗадачей</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>КомандаНеСледитьЗаЗадачей</Action>
 			<Representation>TextPicture</Representation>
@@ -607,7 +607,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.узСледитьЗаЗадачей</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>КомандаСледитьЗаЗадачей</Action>
 			<Representation>TextPicture</Representation>
@@ -644,7 +644,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.узИконкаДобавитьДело</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>КомандаДобавитьВТекущиеДела</Action>
 			<Representation>TextPicture</Representation>
@@ -683,7 +683,7 @@
 			<Shortcut>Ctrl+Shift+F</Shortcut>
 			<Picture>
 				<xr:Ref>CommonPicture.Структура</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>КомандаСоздатьФайлДляЗадачиНаДиске</Action>
 			<Representation>TextPicture</Representation>
@@ -705,7 +705,7 @@
 			<Shortcut>Ctrl+Shift+O</Shortcut>
 			<Picture>
 				<xr:Ref>CommonPicture.Папка</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>КомандаОткрытьПапкуЗадачиНаДиске</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>

@@ -20,12 +20,12 @@
 		<CommandBar name="КоманднаяПанель" id="49">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Командная панель</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Command bar</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Командная панель</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -34,12 +34,12 @@
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Командная панель</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Command bar</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Командная панель</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -186,12 +186,12 @@
 					<ReadOnly>true</ReadOnly>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Полное имя пользователя информационной базы</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Full infobase user name</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Полное имя пользователя информационной базы</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -208,12 +208,12 @@
 					<ReadOnly>true</ReadOnly>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Имя пользователя информационной базы</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Infobase user name</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Имя пользователя информационной базы</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -302,12 +302,12 @@
 							<ReadOnly>true</ReadOnly>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Пользователь операционной системы</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Operating system user</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Пользователь операционной системы</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -407,12 +407,12 @@
 				<Column name="Картинка" id="1">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Картинка</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Picture</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Картинка</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -446,12 +446,12 @@
 				<Column name="Имя" id="3">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Имя (для входа)</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>ro</v8:lang>
 							<v8:content>Login (pentru intrare)</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Имя (для входа)</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
@@ -465,12 +465,12 @@
 				<Column name="АутентификацияСтандартная" id="4">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Аутентификация 1С</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Standard authentication</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Аутентификация 1С</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -495,12 +495,12 @@
 				<Column name="ПользовательОС" id="6">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Пользователь ОС</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>OS User</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Пользователь ОС</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -518,12 +518,12 @@
 				<Column name="ИдентификаторПользователяИБ" id="7">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Идентификатор пользователя ИБ</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>IB User ID</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Идентификатор пользователя ИБ</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -537,12 +537,12 @@
 				<Column name="Ссылка" id="9">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Ссылка</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Ref</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ссылка</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -572,12 +572,12 @@
 				<Column name="АутентификацияOpenID" id="14">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Аутентификация OpenID</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>OpenID authentication</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Аутентификация OpenID</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -638,12 +638,12 @@
 		<Attribute name="ТипыПользователей" id="5">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Типы пользователей</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>User types</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Типы пользователей</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -653,6 +653,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ИдентификаторыНесуществующихПользователейИБ" id="6">
 			<Title>
@@ -668,6 +669,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ПоказатьТолькоОбработанныеВКонфигураторе" id="7">
 			<Title>
@@ -774,7 +776,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.СостояниеПользователя02</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>ПерейтиКПользователю</Action>
 			<Representation>TextPicture</Representation>

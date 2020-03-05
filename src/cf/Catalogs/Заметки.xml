@@ -266,12 +266,12 @@
 					<xr:MinValue xsi:nil="true"/>
 					<xr:Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Тема</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Subject</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Тема</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -340,12 +340,12 @@
 			<FullTextSearch>Use</FullTextSearch>
 			<ObjectPresentation>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Заметка</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Note</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Заметка</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -602,12 +602,12 @@
 					<Name>Пометка</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Пометка</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Check</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Пометка</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -655,12 +655,12 @@
 					<Name>ДатаИзменения</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Дата изменения</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Date of change</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Дата изменения</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>

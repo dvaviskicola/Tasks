@@ -18,18 +18,18 @@
 	</AutoCommandBar>
 	<Events>
 		<Event name="ChoiceProcessing">ОбработкаВыбора</Event>
-		<Event name="BeforeLoadVariantAtServer">ПередЗагрузкойВариантаНаСервере</Event>
 		<Event name="NotificationProcessing">ОбработкаОповещения</Event>
 		<Event name="OnOpen">ПриОткрытии</Event>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+		<Event name="OnClose">ПриЗакрытии</Event>
+		<Event name="FillCheckProcessingAtServer">ОбработкаПроверкиЗаполненияНаСервере</Event>
+		<Event name="BeforeLoadVariantAtServer">ПередЗагрузкойВариантаНаСервере</Event>
 		<Event name="BeforeLoadUserSettingsAtServer">ПередЗагрузкойПользовательскихНастроекНаСервере</Event>
 		<Event name="OnSaveVariantAtServer">ПриСохраненииВариантаНаСервере</Event>
 		<Event name="OnLoadUserSettingsAtServer">ПриЗагрузкеПользовательскихНастроекНаСервере</Event>
 		<Event name="OnLoadVariantAtServer">ПриЗагрузкеВариантаНаСервере</Event>
 		<Event name="OnSaveUserSettingsAtServer">ПриСохраненииПользовательскихНастроекНаСервере</Event>
-		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
-		<Event name="OnClose">ПриЗакрытии</Event>
 		<Event name="OnUpdateUserSettingSetAtServer">ПриОбновленииСоставаПользовательскихНастроекНаСервере</Event>
-		<Event name="FillCheckProcessingAtServer">ОбработкаПроверкиЗаполненияНаСервере</Event>
 	</Events>
 	<ChildItems>
 		<UsualGroup name="БыстрыеНастройки" id="416">
@@ -110,7 +110,7 @@
 							</ToolTip>
 							<Picture>
 								<xr:Ref>CommonPicture.ВыбратьВариантОтчета</xr:Ref>
-								<xr:LoadTransparent>true</xr:LoadTransparent>
+								<xr:LoadTransparent>false</xr:LoadTransparent>
 							</Picture>
 							<Representation>PictureAndText</Representation>
 							<ExtendedTooltip name="ГруппаВариантыОтчетаРасширеннаяПодсказка" id="359"/>
@@ -122,7 +122,7 @@
 									<CommandName>Form.StandardCommand.SaveVariant</CommandName>
 									<Picture>
 										<xr:Ref>CommonPicture.СохранитьВариантОтчета</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</Picture>
 									<Title>
 										<v8:item>
@@ -609,6 +609,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ПостоянныеРеквизиты" id="21">
 			<Title>
@@ -626,6 +627,7 @@
 			<Edit>
 				<xr:Common>false</xr:Common>
 			</Edit>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ФормаПараметры" id="6">
 			<Title>
@@ -1155,7 +1157,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.Отчеты</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>ДругиеОтчеты</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>
@@ -1209,7 +1211,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.ВидСравнения</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>ИзменитьУсловияОтборов</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>

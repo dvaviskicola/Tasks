@@ -186,7 +186,7 @@
 					</ToolTip>
 					<Picture>
 						<xr:Ref>CommonPicture.ПодписанЗашифрованЗаголовок</xr:Ref>
-						<xr:LoadTransparent>true</xr:LoadTransparent>
+						<xr:LoadTransparent>false</xr:LoadTransparent>
 					</Picture>
 					<Representation>Picture</Representation>
 					<ExtendedTooltip name="ФормаГруппаКомандЭлектроннаяПодписьИШифрованиеРасширеннаяПодсказка" id="124"/>
@@ -472,7 +472,7 @@
 									</Title>
 									<Picture>
 										<xr:Ref>CommonPicture.ПапкаОблачногоСервиса</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</Picture>
 									<FileDragMode>AsFile</FileDragMode>
 									<ContextMenu name="ДекорацияКартинкаОблачногоСервисаКонтекстноеМеню" id="267"/>
@@ -944,7 +944,7 @@
 									</ToolTip>
 									<HeaderPicture>
 										<xr:Ref>CommonPicture.РедактироватьФайл</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</HeaderPicture>
 									<CheckBoxType>Auto</CheckBoxType>
 									<ContextMenu name="СписокРедактируетТекущийПользовательКонтекстноеМеню" id="66"/>
@@ -1099,6 +1099,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="Предпросмотр" id="5">
 			<Title>
@@ -1161,6 +1162,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 	</Attributes>
 	<Commands>

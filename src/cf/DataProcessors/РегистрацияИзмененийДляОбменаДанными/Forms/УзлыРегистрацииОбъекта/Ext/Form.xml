@@ -129,7 +129,6 @@
 			<SearchStringLocation>None</SearchStringLocation>
 			<ViewStatusLocation>None</ViewStatusLocation>
 			<SearchControlLocation>None</SearchControlLocation>
-			<TreeSpecialSearch>false</TreeSpecialSearch>
 			<ContextMenu name="ДеревоУзловОбменаКонтекстноеМеню" id="2">
 				<ChildItems>
 					<ButtonGroup name="ДеревоУзловОбменаКонтекстноеМенюГруппа1" id="40">

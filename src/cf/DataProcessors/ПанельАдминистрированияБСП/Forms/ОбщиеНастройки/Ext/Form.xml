@@ -74,12 +74,12 @@
 					<DataPath>НаборКонстант.ЗаголовокСистемы</DataPath>
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Заголовок программы</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Application title</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Заголовок программы</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -96,12 +96,12 @@
 				<UsualGroup name="ГруппаЧасовойПоясПрограммы" id="1696">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа часовой пояс программы</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Group application time zone</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа часовой пояс программы</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -110,12 +110,12 @@
 					</Title>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа часовой пояс программы</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Group application time zone</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа часовой пояс программы</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -152,12 +152,12 @@
 		<UsualGroup name="ГруппаОткрытьВидыКонтактнойИнформации" id="1642">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Контактная информация</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Contact information</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Контактная информация</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -167,12 +167,12 @@
 			<TitleFont ref="sys:DefaultGUIFont" height="11" bold="true" italic="false" underline="false" strikeout="false" kind="WindowsFont"/>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Группа открыть виды контактной информации</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Group open the contact information types</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа открыть виды контактной информации</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -195,12 +195,12 @@
 					<TextColor>style:ПоясняющийТекст</TextColor>
 					<Title formatted="false">
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Классификация контактной информации различных объектов системы, например, партнеров, контрагентов, сотрудников и т.д.</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Contact information classification of system objects, e.g. partners, counterparties, employees, etc.</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Классификация контактной информации различных объектов системы, например, партнеров, контрагентов, сотрудников и т.д.</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -216,12 +216,12 @@
 		<UsualGroup name="ГруппаДополнительныеРеквизитыИСведения" id="1801">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Дополнительные реквизиты и сведения</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Additional attributes and information</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Дополнительные реквизиты и сведения</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -231,12 +231,12 @@
 			<TitleFont ref="sys:DefaultGUIFont" height="11" bold="true" italic="false" underline="false" strikeout="false" kind="WindowsFont"/>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Дополнительные реквизиты и сведения</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Additional attributes and information</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Дополнительные реквизиты и сведения</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -253,12 +253,12 @@
 				<UsualGroup name="ГруппаИспользоватьДополнительныеРеквизитыИСведения" id="1802">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа использовать дополнительные реквизиты и сведения</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Group use additional attributes and information</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа использовать дополнительные реквизиты и сведения</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -267,12 +267,12 @@
 					</Title>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа использовать дополнительные реквизиты и сведения</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Group use additional attributes and information</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа использовать дополнительные реквизиты и сведения</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -288,12 +288,12 @@
 							<DataPath>НаборКонстант.ИспользоватьДополнительныеРеквизитыИСведения</DataPath>
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Дополнительные реквизиты и сведения</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Additional attributes and information</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Дополнительные реквизиты и сведения</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -326,12 +326,12 @@
 						<UsualGroup name="ГруппаДополнительныеРеквизитыИСведенияПрочиеНастройки" id="1807">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа дополнительные реквизиты и сведения прочие настройки</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Group additional attributes and information other settings</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Группа дополнительные реквизиты и сведения прочие настройки</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -340,12 +340,12 @@
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа дополнительные реквизиты и сведения прочие настройки</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Group additional attributes and information other settings</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Группа дополнительные реквизиты и сведения прочие настройки</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -378,12 +378,12 @@
 								<UsualGroup name="ГруппаДополнительныеРеквизитыИСведенияПрочиеНастройкиСодержание" id="1811">
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Группа дополнительные реквизиты и сведения прочие настройки содержание</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Group additional attributes and information other settings content</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Группа дополнительные реквизиты и сведения прочие настройки содержание</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -430,12 +430,12 @@
 											<DataPath>НаборКонстант.ИспользоватьОбщиеДополнительныеРеквизитыИСведения</DataPath>
 											<Title>
 												<v8:item>
-													<v8:lang>ru</v8:lang>
-													<v8:content>Общие реквизиты и сведения</v8:content>
-												</v8:item>
-												<v8:item>
 													<v8:lang>en</v8:lang>
 													<v8:content>Common attributes and information</v8:content>
+												</v8:item>
+												<v8:item>
+													<v8:lang>ru</v8:lang>
+													<v8:content>Общие реквизиты и сведения</v8:content>
 												</v8:item>
 												<v8:item>
 													<v8:lang>ro</v8:lang>
@@ -471,12 +471,12 @@
 				<UsualGroup name="ГруппаДополнительныеРеквизитыИлиСведения" id="1820">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа дополнительные реквизиты или сведения</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Group additional attributes and information</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа дополнительные реквизиты или сведения</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -485,12 +485,12 @@
 					</Title>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа дополнительные реквизиты или сведения</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Group additional attributes and information</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа дополнительные реквизиты или сведения</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -507,12 +507,12 @@
 						<UsualGroup name="ГруппаДополнительныеРеквизиты" id="1821">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа дополнительные реквизиты</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Additional attribute group</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Группа дополнительные реквизиты</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -552,12 +552,12 @@ These attributes are displayed in the form.</v8:content>
 						<UsualGroup name="ГруппаДополнительныеСведения" id="1825">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа дополнительные сведения</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Group additional information</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Группа дополнительные сведения</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -625,12 +625,12 @@ These attributes are displayed in the form.</v8:content>
 						<UsualGroup name="ГоризонтальнаяГруппа" id="1953">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Горизонтальная группа</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Horizontal group</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Горизонтальная группа</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -645,12 +645,12 @@ These attributes are displayed in the form.</v8:content>
 								<CheckBoxField name="ИспользоватьЭлектронныеПодписи" id="1955">
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Электронная подпись</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Digital signature</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Электронная подпись</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -668,12 +668,12 @@ These attributes are displayed in the form.</v8:content>
 								<CheckBoxField name="ИспользоватьШифрование" id="1958">
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Шифрование</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Encryption</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Шифрование</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -791,12 +791,12 @@ These attributes are displayed in the form.</v8:content>
 							<CommandName>CommonForm.ПараметрыПроксиСервера.StandardCommand.Open</CommandName>
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Параметры доступа в Интернет</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Access parameters to the Internet</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Параметры доступа в Интернет</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -809,12 +809,12 @@ These attributes are displayed in the form.</v8:content>
 							<TextColor>style:ПоясняющийТекст</TextColor>
 							<Title formatted="false">
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Настройки параметров прокси-сервера на сервере 1С:Предприятие.</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Proxy server parameter settings on the 1C:Enterprise server</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Настройки параметров прокси-сервера на сервере 1С:Предприятие.</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -1121,12 +1121,12 @@ These attributes are displayed in the form.</v8:content>
 		<Attribute name="ЧасовойПоясПрограммы" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Часовой пояс</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Timezone</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Часовой пояс</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -1144,12 +1144,12 @@ These attributes are displayed in the form.</v8:content>
 		<Attribute name="РежимРаботы" id="5">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Режим работы</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Work mode</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Режим работы</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -1194,12 +1194,12 @@ These attributes are displayed in the form.</v8:content>
 		<Command name="ВремяТекущегоСеанса" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Время текущего сеанса</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Current session time</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Время текущего сеанса</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -1208,12 +1208,12 @@ These attributes are displayed in the form.</v8:content>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Время текущего сеанса</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Current session time</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Время текущего сеанса</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -1226,12 +1226,12 @@ These attributes are displayed in the form.</v8:content>
 		<Command name="ДополнительныеСведения" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Дополнительные сведения</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Additional data</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Дополнительные сведения</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>

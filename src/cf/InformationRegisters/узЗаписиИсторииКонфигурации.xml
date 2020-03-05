@@ -35,12 +35,12 @@
 			<Name>узЗаписиИсторииКонфигурации</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Записи истории конфигурации</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Applications History Records</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Записи истории конфигурации</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>

@@ -389,7 +389,7 @@
 					<TitleLocation>None</TitleLocation>
 					<HeaderPicture>
 						<xr:Ref>CommonPicture.Успешно</xr:Ref>
-						<xr:LoadTransparent>true</xr:LoadTransparent>
+						<xr:LoadTransparent>false</xr:LoadTransparent>
 					</HeaderPicture>
 					<CheckBoxType>Auto</CheckBoxType>
 					<ContextMenu name="ПодготовленаКонтекстноеМеню" id="15"/>
@@ -652,6 +652,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ТекстОшибкиПриОткрытии" id="3">
 			<Title>

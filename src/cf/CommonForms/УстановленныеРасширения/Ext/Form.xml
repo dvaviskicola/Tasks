@@ -138,7 +138,7 @@
 									</Title>
 									<Picture>
 										<xr:Ref>CommonPicture.Предупреждение32</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</Picture>
 									<FileDragMode>AsFile</FileDragMode>
 									<ContextMenu name="ПредупреждениеКартинкаКонтекстноеМеню" id="81"/>
@@ -204,7 +204,7 @@
 									</Title>
 									<Picture>
 										<xr:Ref>CommonPicture.Информация32</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</Picture>
 									<FileDragMode>AsFile</FileDragMode>
 									<ContextMenu name="ИнформацияКартинкаКонтекстноеМеню" id="124"/>
@@ -249,7 +249,7 @@
 							<DataPath>СписокРасширений</DataPath>
 							<RowsPicture>
 								<xr:Ref>CommonPicture.ПиктограммыЭлементов</xr:Ref>
-								<xr:LoadTransparent>true</xr:LoadTransparent>
+								<xr:LoadTransparent>false</xr:LoadTransparent>
 							</RowsPicture>
 							<CommandSet>
 								<ExcludedCommand>CancelSearch</ExcludedCommand>
@@ -392,7 +392,7 @@
 							<Height>3</Height>
 							<Picture>
 								<xr:Ref>CommonPicture.ДлительнаяОперация48</xr:Ref>
-								<xr:LoadTransparent>true</xr:LoadTransparent>
+								<xr:LoadTransparent>false</xr:LoadTransparent>
 							</Picture>
 							<FileDragMode>AsFile</FileDragMode>
 							<ContextMenu name="ДлительнаяОперацияКонтекстноеМеню" id="106"/>
@@ -580,7 +580,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.ОбновитьФайлИзФайлаНаДиске</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>ОбновитьИзФайлаНаДиске</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>
@@ -600,7 +600,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.СохранитьФайлКак</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>СохранитьКак</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>

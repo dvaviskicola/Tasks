@@ -409,7 +409,7 @@
 							<CommandName>Form.Command.ИзменитьОтображениеПанелиНавигации</CommandName>
 							<Picture>
 								<xr:Ref>CommonPicture.СтрелкаВлево</xr:Ref>
-								<xr:LoadTransparent>true</xr:LoadTransparent>
+								<xr:LoadTransparent>false</xr:LoadTransparent>
 							</Picture>
 							<ExtendedTooltip name="ИзменитьОтображениеПанелиНавигацииРасширеннаяПодсказка" id="831"/>
 						</Button>
@@ -520,8 +520,7 @@
 									<CommandName>Form.Command.СоздатьЭлектронноеПисьмо</CommandName>
 									<Picture>
 										<xr:Ref>CommonPicture.ОтправитьЭлектронноеПисьмо</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
-										<xr:TransparentPixel x="6" y="2"/>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</Picture>
 									<Title>
 										<v8:item>
@@ -537,8 +536,7 @@
 									<CommandName>Form.Command.Ответить</CommandName>
 									<Picture>
 										<xr:Ref>CommonPicture.ОтветитьНаЭлектронноеПисьмо</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
-										<xr:TransparentPixel x="14" y="9"/>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</Picture>
 									<ExtendedTooltip name="СписокОтветитьРасширеннаяПодсказка" id="606"/>
 								</Button>
@@ -1063,7 +1061,7 @@
 																			<HorizontalAlign>Left</HorizontalAlign>
 																			<HeaderPicture>
 																				<xr:Ref>CommonPicture.КоличествоРассмотрено</xr:Ref>
-																				<xr:LoadTransparent>true</xr:LoadTransparent>
+																				<xr:LoadTransparent>false</xr:LoadTransparent>
 																			</HeaderPicture>
 																			<Width>3</Width>
 																			<HorizontalStretch>false</HorizontalStretch>
@@ -1363,7 +1361,7 @@
 																			<HorizontalAlign>Left</HorizontalAlign>
 																			<HeaderPicture>
 																				<xr:Ref>CommonPicture.КоличествоРассмотрено</xr:Ref>
-																				<xr:LoadTransparent>true</xr:LoadTransparent>
+																				<xr:LoadTransparent>false</xr:LoadTransparent>
 																			</HeaderPicture>
 																			<Width>3</Width>
 																			<HorizontalStretch>false</HorizontalStretch>
@@ -1615,7 +1613,6 @@
 													<SearchStringLocation>None</SearchStringLocation>
 													<ViewStatusLocation>None</ViewStatusLocation>
 													<SearchControlLocation>None</SearchControlLocation>
-													<TreeSpecialSearch>false</TreeSpecialSearch>
 													<ContextMenu name="СвойстваКонтекстноеМеню" id="131">
 														<ChildItems>
 															<ButtonGroup name="СвойстваКонтекстноеМенюГруппаРассмотрено" id="401">
@@ -1823,7 +1820,6 @@
 													<SearchStringLocation>None</SearchStringLocation>
 													<ViewStatusLocation>None</ViewStatusLocation>
 													<SearchControlLocation>None</SearchControlLocation>
-													<TreeSpecialSearch>false</TreeSpecialSearch>
 													<ContextMenu name="ПапкиКонтекстноеМеню" id="179">
 														<ChildItems>
 															<ButtonGroup name="ПапкиКонтекстноеМенюГруппаРассмотрено" id="387">
@@ -3071,6 +3067,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ИмяТекущейПанелиНавигации" id="15">
 			<Title>
@@ -3556,6 +3553,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ИспользоватьПризнакРассмотрено" id="33">
 			<Title>
@@ -4428,8 +4426,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.ОтветитьНаЭлектронноеПисьмо</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
-				<xr:TransparentPixel x="14" y="9"/>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>Ответить</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>
@@ -4449,8 +4446,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.ОтветитьНаЭлектронноеПисьмоВсем</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
-				<xr:TransparentPixel x="1" y="3"/>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>ОтветитьВсем</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>
@@ -4470,8 +4466,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.ПереслатьЭлектронноеПисьмо</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
-				<xr:TransparentPixel x="2" y="2"/>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>Переслать</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>

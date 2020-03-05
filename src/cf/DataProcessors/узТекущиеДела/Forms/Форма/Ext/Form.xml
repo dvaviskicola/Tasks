@@ -737,7 +737,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.узВыполнил</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>КомандаВыполнил</Action>
 			<Representation>TextPicture</Representation>

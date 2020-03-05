@@ -35,12 +35,12 @@
 					<VerticalStretch>false</VerticalStretch>
 					<Title formatted="false">
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Настройка параметров загрузки, хранения и обработки файлов.</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Use this section to customize parameters of import, storage and processing of files.</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Настройка параметров загрузки, хранения и обработки файлов.</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -73,12 +73,12 @@
 		<UsualGroup name="ГруппаУправлениеТомамиФайлов" id="1403">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Группа управление томами файлов</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Group file volume management</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа управление томами файлов</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -87,12 +87,12 @@
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Группа управление томами файлов</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Group file volume management</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа управление томами файлов</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -139,12 +139,12 @@
 							<TextColor>style:ПоясняющийТекст</TextColor>
 							<Title formatted="false">
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Выбор между хранением файлов в информационной базе или в томах на диске.</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Select where you want store files: in the infobase or in the disk volumes.</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Выбор между хранением файлов в информационной базе или в томах на диске.</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -183,12 +183,12 @@
 							<TextColor>style:ПоясняющийТекст</TextColor>
 							<Title formatted="false">
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Настройка подключения к томам (папкам) хранения файлов на файловом сервере.</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Setup of connection to the files storage volumes (folders) on the file server.</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Настройка подключения к томам (папкам) хранения файлов на файловом сервере.</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -205,12 +205,12 @@
 		<UsualGroup name="ГруппаУправлениеЗагрузкойФайлов" id="1409">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Группа управление загрузкой файлов</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Group of the file import management</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа управление загрузкой файлов</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -219,12 +219,12 @@
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Группа управление загрузкой файлов</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Group of the file import management</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа управление загрузкой файлов</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -241,12 +241,12 @@
 				<UsualGroup name="ГруппаРасширение" id="722">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа расширение</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Group extension</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа расширение</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -334,12 +334,12 @@
 				<UsualGroup name="ГруппаМаксимальныйРазмерФайлаОбластиДанных" id="1412">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа максимальный размер файла области данных</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Group maximal data area file size</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа максимальный размер файла области данных</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -348,12 +348,12 @@
 					</Title>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа максимальный размер файла области данных</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Group maximal data area file size</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа максимальный размер файла области данных</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -370,12 +370,12 @@
 						<UsualGroup name="ГруппаРазмер" id="713">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа размер</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Group size</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Группа размер</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -384,12 +384,12 @@
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа размер</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Group size</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Группа размер</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -417,12 +417,12 @@
 									<SkipOnInput>false</SkipOnInput>
 									<Title formatted="false">
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Мбайт</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Mbyte</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Мбайт</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -438,12 +438,12 @@
 							<TextColor>style:ПоясняющийТекст</TextColor>
 							<Title formatted="false">
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Ограничение загрузки файлов, превышающих указанный размер.</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Import restriction for files exceeding the size limit.</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Ограничение загрузки файлов, превышающих указанный размер.</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -517,12 +517,12 @@
 					<DataPath>НаборКонстант.СписокРасширенийФайловOpenDocumentОбластиДанных</DataPath>
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Расширения файлов ODF</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>ODF files extension</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Расширения файлов ODF</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -567,12 +567,12 @@ Are specified through the "space".</v8:content>
 					<DataPath>НаборКонстант.СписокРасширенийТекстовыхФайлов</DataPath>
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Расширения текстовых файлов</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Text file extensions</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Расширения текстовых файлов</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -693,12 +693,12 @@ Are specified through the "space".</v8:content>
 				<UsualGroup name="ОбщиеПараметрыДляВсехОбластейДанных" id="2022">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Общие параметры для всех областей данных</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Common parameters for all data areas</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Общие параметры для всех областей данных</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -708,12 +708,12 @@ Are specified through the "space".</v8:content>
 					<TitleFont ref="sys:DefaultGUIFont" height="11" bold="true" italic="false" underline="false" strikeout="false" kind="WindowsFont"/>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Общие параметры для всех областей данных</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Common parameters for all data areas</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Общие параметры для всех областей данных</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -749,12 +749,12 @@ Are specified through the "space".</v8:content>
 								<UsualGroup name="ГруппаРазмер1" id="2034">
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Группа размер</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Group size</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Группа размер</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -763,12 +763,12 @@ Are specified through the "space".</v8:content>
 									</Title>
 									<ToolTip>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Группа размер</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Group size</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Группа размер</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -796,12 +796,12 @@ Are specified through the "space".</v8:content>
 											<SkipOnInput>false</SkipOnInput>
 											<Title formatted="false">
 												<v8:item>
-													<v8:lang>ru</v8:lang>
-													<v8:content>Мбайт</v8:content>
-												</v8:item>
-												<v8:item>
 													<v8:lang>en</v8:lang>
 													<v8:content>Mbyte</v8:content>
+												</v8:item>
+												<v8:item>
+													<v8:lang>ru</v8:lang>
+													<v8:content>Мбайт</v8:content>
 												</v8:item>
 												<v8:item>
 													<v8:lang>ro</v8:lang>
@@ -817,12 +817,12 @@ Are specified through the "space".</v8:content>
 									<TextColor>style:ПоясняющийТекст</TextColor>
 									<Title formatted="false">
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Ограничение загрузки файлов, превышающих указанный размер.</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Import restriction for files exceeding the size limit.</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Ограничение загрузки файлов, превышающих указанный размер.</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -858,12 +858,12 @@ Are specified through the "space".</v8:content>
 									<DataPath>НаборКонстант.СписокЗапрещенныхРасширений</DataPath>
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Расширения, запрещенные для загрузки</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Extensions prohibited for the import</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Расширения, запрещенные для загрузки</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -903,12 +903,12 @@ Are specified through the "space".</v8:content>
 									<DataPath>НаборКонстант.СписокРасширенийФайловOpenDocument</DataPath>
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Расширения файлов ODF</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>ODF files extension</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Расширения файлов ODF</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -985,12 +985,12 @@ Are specified through the "space".</v8:content>
 		<Attribute name="МаксимальныйРазмерФайлаОбластиДанных" id="10">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Максимальный размер файла</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Maximum file size</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Максимальный размер файла</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -1010,12 +1010,12 @@ Are specified through the "space".</v8:content>
 		<Attribute name="РежимРаботы" id="15">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Режим работы</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Work mode</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Режим работы</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -1027,12 +1027,12 @@ Are specified through the "space".</v8:content>
 		<Attribute name="МаксимальныйРазмерФайла" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Максимальный размер файла</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Maximum file size</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Максимальный размер файла</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -1052,12 +1052,12 @@ Are specified through the "space".</v8:content>
 		<Attribute name="ЗапрещатьЗагрузкуФайловПоРасширению" id="16">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Запрещать загрузку файлов по расширению</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Prohibit the files import by extension</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Запрещать загрузку файлов по расширению</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -1073,12 +1073,12 @@ Are specified through the "space".</v8:content>
 		<Command name="СправочникТомаХраненияФайлов" id="37">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Тома хранения файлов</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>File storage volumes</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Тома хранения файлов</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -1087,12 +1087,12 @@ Are specified through the "space".</v8:content>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Справочник тома хранения файлов</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Catalog of the file storage volume</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Справочник тома хранения файлов</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>

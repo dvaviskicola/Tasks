@@ -101,7 +101,7 @@
 									<Height>1</Height>
 									<Picture>
 										<xr:Ref>CommonPicture.Предупреждение</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</Picture>
 									<FileDragMode>AsFile</FileDragMode>
 									<ContextMenu name="Декорация3КонтекстноеМеню" id="2449"/>
@@ -432,7 +432,7 @@
 											<Height>1</Height>
 											<Picture>
 												<xr:Ref>CommonPicture.Предупреждение</xr:Ref>
-												<xr:LoadTransparent>true</xr:LoadTransparent>
+												<xr:LoadTransparent>false</xr:LoadTransparent>
 											</Picture>
 											<FileDragMode>AsFile</FileDragMode>
 											<ContextMenu name="Декорация9КонтекстноеМеню" id="2457"/>
@@ -842,7 +842,6 @@
 													<SearchStringLocation>None</SearchStringLocation>
 													<ViewStatusLocation>None</ViewStatusLocation>
 													<SearchControlLocation>None</SearchControlLocation>
-													<TreeSpecialSearch>false</TreeSpecialSearch>
 													<ContextMenu name="ДеревоИнформацииСтатистикиКонтекстноеМеню" id="1652">
 														<Autofill>false</Autofill>
 														<ChildItems>
@@ -7046,7 +7045,7 @@
 			</Title>
 			<Picture>
 				<xr:Ref>CommonPicture.Информация</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>ПодробноеОписание</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>

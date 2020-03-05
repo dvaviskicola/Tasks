@@ -15,12 +15,12 @@
 			<Name>узКанбанДоска</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Канбан доска</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Kanban Table</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Канбан доска</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -41,12 +41,12 @@
 					<Name>АдресВременногоХранилища</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Адрес временного хранилища</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Temporary storage address</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Адрес временного хранилища</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -411,12 +411,12 @@
 							<Name>Задача</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Задача</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Task</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Задача</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -455,12 +455,12 @@
 							<Name>Статус</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Статус</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Status</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Статус</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -615,12 +615,12 @@
 							<Name>Важность</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Важность</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Importance</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Важность</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -1158,12 +1158,12 @@
 							<Name>Статус</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Статус</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Status</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Статус</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -1202,12 +1202,12 @@
 							<Name>Видимость</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Видимость</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Visible</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Видимость</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -1291,12 +1291,12 @@
 					<Name>КомандаКанбанДоска</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Канбан доска</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Kanban Table</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Канбан доска</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>

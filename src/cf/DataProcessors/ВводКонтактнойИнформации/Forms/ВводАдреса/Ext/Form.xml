@@ -707,7 +707,7 @@
 																	</Title>
 																	<Picture>
 																		<xr:Ref>CommonPicture.Предупреждение32</xr:Ref>
-																		<xr:LoadTransparent>true</xr:LoadTransparent>
+																		<xr:LoadTransparent>false</xr:LoadTransparent>
 																	</Picture>
 																	<FileDragMode>AsFile</FileDragMode>
 																	<ContextMenu name="КартинкаСерверНедоступенКонтекстноеМеню" id="261"/>
@@ -2393,7 +2393,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.ИсторияИзменений</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>ИсторияИзменений</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>
@@ -2413,7 +2413,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.ЯндексКарты</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>АдресНаЯндексКарты</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>
@@ -2433,7 +2433,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.GoogleMaps</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>АдресНаGoogleMaps</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>

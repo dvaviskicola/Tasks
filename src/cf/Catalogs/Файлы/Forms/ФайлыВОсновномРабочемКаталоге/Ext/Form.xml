@@ -198,7 +198,7 @@
 					</ToolTip>
 					<HeaderPicture>
 						<xr:Ref>CommonPicture.РедактироватьФайл</xr:Ref>
-						<xr:LoadTransparent>true</xr:LoadTransparent>
+						<xr:LoadTransparent>false</xr:LoadTransparent>
 					</HeaderPicture>
 					<CheckBoxType>Auto</CheckBoxType>
 					<ContextMenu name="СписокНаРедактированиеКонтекстноеМеню" id="18"/>
@@ -222,8 +222,7 @@
 							<Height>1</Height>
 							<ValuesPicture>
 								<xr:Ref>CommonPicture.КоллекцияПиктограммФайлов</xr:Ref>
-								<xr:LoadTransparent>true</xr:LoadTransparent>
-								<xr:TransparentPixel x="10" y="10"/>
+								<xr:LoadTransparent>false</xr:LoadTransparent>
 							</ValuesPicture>
 							<Border width="1">
 								<v8ui:style xsi:type="v8ui:ControlBorderType">WithoutBorder</v8ui:style>
@@ -453,6 +452,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 	</Attributes>
 	<Commands>

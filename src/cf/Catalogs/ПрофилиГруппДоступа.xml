@@ -27,12 +27,12 @@
 			<Name>ПрофилиГруппДоступа</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Профили групп доступа</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Access group profiles</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Профили групп доступа</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -222,12 +222,12 @@
 					<xr:MaxValue xsi:nil="true"/>
 					<xr:ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа (папка), объединяющая профили для удобства поиска</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Group (folder) joining the profiles for the search convenience</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа (папка), объединяющая профили для удобства поиска</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -246,12 +246,12 @@
 					<xr:MinValue xsi:nil="true"/>
 					<xr:Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа (папка)</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Group (folder)</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа (папка)</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -274,12 +274,12 @@
 					<xr:MaxValue xsi:nil="true"/>
 					<xr:ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Наименование профиля групп доступа</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Access groups proattachment file name</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Наименование профиля групп доступа</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -359,12 +359,12 @@
 			<FullTextSearch>Use</FullTextSearch>
 			<ObjectPresentation>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Профиль групп доступа</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Access group profile</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Профиль групп доступа</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -385,12 +385,12 @@
 					<Name>ИдентификаторПоставляемыхДанных</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Идентификатор поставляемых данных</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Supplied data ID</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Идентификатор поставляемых данных</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -406,12 +406,12 @@
 					<EditFormat/>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Для профилей, поставляемых в составе конфигурации, содержит идентификатор по которому можно найти описание поставляемого профиля.</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>For the profiles supplied in the configuration structure contains an identifier which is used to find the supplied proattachment description.</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Для профилей, поставляемых в составе конфигурации, содержит идентификатор по которому можно найти описание поставляемого профиля.</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -446,12 +446,12 @@
 					<Name>ПоставляемыйПрофильИзменен</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Поставляемый профиль изменен</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Standard Profile Changed</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Поставляемый профиль изменен</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -467,12 +467,12 @@
 					<EditFormat/>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Флажок установлен Истина, когда профиль групп доступа является поставляемым и был изменен администратором по сравнению с поставкой</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Flag is set as True when the access groups profile is supplied and has been modified ny administrator by comparison with the supply</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Флажок установлен Истина, когда профиль групп доступа является поставляемым и был изменен администратором по сравнению с поставкой</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -524,12 +524,12 @@
 					<EditFormat/>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Произвольная строка</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>An arbitrary string</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Произвольная строка</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -574,12 +574,12 @@
 					<Name>Роли</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Роли</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Roles</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Роли</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -625,12 +625,12 @@
 							<Name>Роль</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Роль</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Role</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Роль</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -646,12 +646,12 @@
 							<EditFormat/>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Разрешенное действие (роль), заданное для профиля групп доступа</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Permitted action (role) specified for the access group profile</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Разрешенное действие (роль), заданное для профиля групп доступа</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -683,12 +683,12 @@
 							<Name>УдалитьРоль</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>(не используется) Роль</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>(not used) Role</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>(не используется) Роль</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -708,12 +708,12 @@
 							<EditFormat/>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Разрешенное действие (роль), заданное для профиля групп доступа</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Permitted action (role) specified for the access group profile</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Разрешенное действие (роль), заданное для профиля групп доступа</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -757,12 +757,12 @@
 					<Name>ВидыДоступа</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Виды доступа</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Access kinds</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Виды доступа</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -808,12 +808,12 @@
 							<Name>ВидДоступа</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Вид доступа</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Access kind</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Вид доступа</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -859,12 +859,12 @@
 							<Name>Предустановленный</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Предустановленный</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Preset</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Предустановленный</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -913,12 +913,12 @@
 							<Name>ВсеРазрешены</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Все разрешены</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>All allowed</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Все разрешены</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -934,12 +934,12 @@
 							<EditFormat/>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Способ определения разрешенных значений доступа</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Permitted access values determination method</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Способ определения разрешенных значений доступа</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -983,12 +983,12 @@
 					<Name>ЗначенияДоступа</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Значения доступа</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Access Value</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Значения доступа</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -1034,12 +1034,12 @@
 							<Name>ВидДоступа</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Вид доступа</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Access kind</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Вид доступа</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -1055,12 +1055,12 @@
 							<EditFormat/>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Предустановленный вид доступа, по которому задано предустановленное значение доступа</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Preset access type by which the preset access value is not specified</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Предустановленный вид доступа, по которому задано предустановленное значение доступа</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -1092,12 +1092,12 @@
 							<Name>ЗначениеДоступа</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Значение доступа</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Access value</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Значение доступа</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -1158,12 +1158,12 @@
 					<Name>Назначение</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Назначение</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Purpose</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Назначение</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -1209,12 +1209,12 @@
 							<Name>ТипПользователей</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Тип пользователей</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Users type</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Тип пользователей</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -1265,12 +1265,12 @@
 					<Name>ГруппыДоступа</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группы доступа</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Access groups</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группы доступа</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>

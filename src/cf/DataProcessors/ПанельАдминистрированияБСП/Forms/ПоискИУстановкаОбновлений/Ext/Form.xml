@@ -51,12 +51,12 @@
 		<UsualGroup name="ГруппаОбновлениеИОписаниеИзменений" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Обновление версии программы</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Application version update</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Обновление версии программы</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -90,12 +90,12 @@
 									<CommandName>DataProcessor.ПоискИУстановкаОбновлений.StandardCommand.Open</CommandName>
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Поиск и установка обновлений</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Update search and installation</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Поиск и установка обновлений</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -109,12 +109,12 @@
 									<TextColor>style:ПоясняющийТекст</TextColor>
 									<Title formatted="false">
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Получение информации о последних обновлениях и автоматическая установка обновлений сразу, через указанное время, при завершении работы.</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Get information about last updates and automatic installation of updates in specified time when closing the application.</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Получение информации о последних обновлениях и автоматическая установка обновлений сразу, через указанное время, при завершении работы.</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -211,12 +211,12 @@
 									<TextColor>style:ПоясняющийТекст</TextColor>
 									<Title formatted="false">
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>История изменений по версиям программы.</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Change history by application versions.</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>История изменений по версиям программы.</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -250,12 +250,12 @@
 									<TextColor>style:ПоясняющийТекст</TextColor>
 									<Title formatted="false">
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Сведения о ходе обновления версии программы, отложенное выполнение дополнительных процедур обработки данных.</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Information about the application version update progress, delayed execution of additional data processor procedures.</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Сведения о ходе обновления версии программы, отложенное выполнение дополнительных процедур обработки данных.</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -299,12 +299,12 @@
 									<DataPath>НаборКонстант.ДетализироватьОбновлениеИБВЖурналеРегистрации</DataPath>
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Детализировать ход обновления в журнале регистрации</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Detalize the update progress in the event log</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Детализировать ход обновления в журнале регистрации</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -323,12 +323,12 @@
 									<TextColor>style:ПоясняющийТекст</TextColor>
 									<Title formatted="false">
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Записывать в журнал регистрации подробную информацию о ходе выполнения обновления.</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Record a detailed information about the update progress to the event log.</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Записывать в журнал регистрации подробную информацию о ходе выполнения обновления.</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -349,12 +349,12 @@
 		<Attribute name="НаборКонстант" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Набор констант</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Constants set</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Набор констант</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -369,12 +369,12 @@
 		<Attribute name="РежимРаботы" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Режим работы (фиксированная структура)</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Work mode (fixed structure)</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Режим работы (фиксированная структура)</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -412,12 +412,12 @@
 		<Command name="РезультатыОбновленияИДополнительнаяОбработкаДанных" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Результаты обновления и дополнительная обработка данных</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Update results and additional data processing</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Результаты обновления и дополнительная обработка данных</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -426,12 +426,12 @@
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Результаты обновления и дополнительная обработка данных</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Update results and additional data processing</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Результаты обновления и дополнительная обработка данных</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>

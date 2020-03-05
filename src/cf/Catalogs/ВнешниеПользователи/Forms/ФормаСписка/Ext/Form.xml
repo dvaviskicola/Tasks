@@ -1284,8 +1284,8 @@
 			<Item>
 				<Command>CommonCommand.ДополнительныеСведенияКоманднаяПанель</Command>
 				<Type>Auto</Type>
-				<CommandGroup>FormCommandBarImportant</CommandGroup>
 				<DefaultVisible>false</DefaultVisible>
+				<CommandGroup>FormCommandBarImportant</CommandGroup>
 				<Visible>
 					<xr:Common>false</xr:Common>
 				</Visible>

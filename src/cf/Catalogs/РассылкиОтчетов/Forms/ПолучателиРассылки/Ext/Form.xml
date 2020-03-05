@@ -78,7 +78,7 @@
 					<RowPictureDataPath>Получатели.ИндексКартинки</RowPictureDataPath>
 					<RowsPicture>
 						<xr:Ref>CommonPicture.СостоянияПользователей</xr:Ref>
-						<xr:LoadTransparent>true</xr:LoadTransparent>
+						<xr:LoadTransparent>false</xr:LoadTransparent>
 					</RowsPicture>
 					<CommandSet>
 						<ExcludedCommand>Change</ExcludedCommand>
@@ -438,7 +438,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.ЗаполнитьФорму</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>ВставитьИзБуфераОбмена</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>

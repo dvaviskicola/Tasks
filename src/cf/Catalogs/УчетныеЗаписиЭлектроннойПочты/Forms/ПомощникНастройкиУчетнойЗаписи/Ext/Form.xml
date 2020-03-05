@@ -102,7 +102,7 @@
 									</Title>
 									<Picture>
 										<xr:Ref>CommonPicture.Предупреждение32</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</Picture>
 									<FileDragMode>AsFile</FileDragMode>
 									<ContextMenu name="КартинкаПредупреждениеКонтекстноеМеню" id="161"/>
@@ -979,7 +979,7 @@ Cann't connect to example.com, 110: Refused</v8:content>
 									<Height>3</Height>
 									<Picture>
 										<xr:Ref>CommonPicture.ДлительнаяОперация48</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</Picture>
 									<FileDragMode>AsFile</FileDragMode>
 									<ContextMenu name="КартинкаДлительнаяОперацияКонтекстноеМеню" id="56"/>
@@ -1057,7 +1057,7 @@ Cann't connect to example.com, 110: Refused</v8:content>
 									</Title>
 									<Picture>
 										<xr:Ref>CommonPicture.Успешно32</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</Picture>
 									<FileDragMode>AsFile</FileDragMode>
 									<ContextMenu name="КартинкаУспешноКонтекстноеМеню" id="67"/>

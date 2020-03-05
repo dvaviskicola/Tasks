@@ -12,12 +12,12 @@
 		<Autofill>false</Autofill>
 	</AutoCommandBar>
 	<Events>
-		<Event name="BeforeLoadVariantAtServer">ПередЗагрузкойВариантаНаСервере</Event>
 		<Event name="OnOpen">ПриОткрытии</Event>
-		<Event name="BeforeLoadUserSettingsAtServer">ПередЗагрузкойПользовательскихНастроекНаСервере</Event>
 		<Event name="BeforeClose">ПередЗакрытием</Event>
 		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 		<Event name="OnClose">ПриЗакрытии</Event>
+		<Event name="BeforeLoadVariantAtServer">ПередЗагрузкойВариантаНаСервере</Event>
+		<Event name="BeforeLoadUserSettingsAtServer">ПередЗагрузкойПользовательскихНастроекНаСервере</Event>
 		<Event name="OnUpdateUserSettingSetAtServer">ПриОбновленииСоставаПользовательскихНастроекНаСервере</Event>
 	</Events>
 	<ChildItems>
@@ -132,7 +132,7 @@
 							<RowPictureDataPath>СоставГруппировки.ИндексКартинки</RowPictureDataPath>
 							<RowsPicture>
 								<xr:Ref>CommonPicture.ПиктограммыНастроекОтчета</xr:Ref>
-								<xr:LoadTransparent>true</xr:LoadTransparent>
+								<xr:LoadTransparent>false</xr:LoadTransparent>
 							</RowsPicture>
 							<CommandSet>
 								<ExcludedCommand>Change</ExcludedCommand>
@@ -149,7 +149,6 @@
 								<ExcludedCommand>SortListDesc</ExcludedCommand>
 								<ExcludedCommand>Tree</ExcludedCommand>
 							</CommandSet>
-							<TreeSpecialSearch>false</TreeSpecialSearch>
 							<ContextMenu name="СоставГруппировкиКонтекстноеМеню" id="625">
 								<Autofill>false</Autofill>
 								<ChildItems>
@@ -296,7 +295,7 @@
 					</ToolTip>
 					<Picture>
 						<xr:Ref>CommonPicture.Отборы</xr:Ref>
-						<xr:LoadTransparent>true</xr:LoadTransparent>
+						<xr:LoadTransparent>false</xr:LoadTransparent>
 					</Picture>
 					<ExtendedTooltip name="СтраницаОтборыРасширеннаяПодсказка" id="321"/>
 					<ChildItems>
@@ -359,7 +358,7 @@
 									<RowPictureDataPath>Отборы.ИндексКартинки</RowPictureDataPath>
 									<RowsPicture>
 										<xr:Ref>CommonPicture.ПиктограммыПараметровИОтборов</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</RowsPicture>
 									<CommandSet>
 										<ExcludedCommand>Change</ExcludedCommand>
@@ -376,7 +375,6 @@
 										<ExcludedCommand>SortListDesc</ExcludedCommand>
 										<ExcludedCommand>Tree</ExcludedCommand>
 									</CommandSet>
-									<TreeSpecialSearch>false</TreeSpecialSearch>
 									<ContextMenu name="ОтборыКонтекстноеМеню" id="343">
 										<Autofill>false</Autofill>
 										<ChildItems>
@@ -665,7 +663,7 @@
 											<EditMode>EnterOnInput</EditMode>
 											<HeaderPicture>
 												<xr:Ref>CommonPicture.БыстрыйДоступ</xr:Ref>
-												<xr:LoadTransparent>true</xr:LoadTransparent>
+												<xr:LoadTransparent>false</xr:LoadTransparent>
 											</HeaderPicture>
 											<Width>2</Width>
 											<HorizontalStretch>false</HorizontalStretch>
@@ -673,7 +671,7 @@
 											<Hyperlink>true</Hyperlink>
 											<ValuesPicture>
 												<xr:Ref>CommonPicture.ПиктограммыДоступаКНастройкамОтчета</xr:Ref>
-												<xr:LoadTransparent>true</xr:LoadTransparent>
+												<xr:LoadTransparent>false</xr:LoadTransparent>
 											</ValuesPicture>
 											<FileDragMode>AsFile</FileDragMode>
 											<ContextMenu name="ОтборыИндексКартинкиДоступаКонтекстноеМеню" id="370"/>
@@ -720,7 +718,7 @@
 											</Title>
 											<Picture>
 												<xr:Ref>CommonPicture.Информация</xr:Ref>
-												<xr:LoadTransparent>true</xr:LoadTransparent>
+												<xr:LoadTransparent>false</xr:LoadTransparent>
 											</Picture>
 											<FileDragMode>AsFile</FileDragMode>
 											<ContextMenu name="КартинкаИнформация1КонтекстноеМеню" id="809"/>
@@ -761,7 +759,7 @@
 					</ToolTip>
 					<Picture>
 						<xr:Ref>CommonPicture.ПоляИСортировки</xr:Ref>
-						<xr:LoadTransparent>true</xr:LoadTransparent>
+						<xr:LoadTransparent>false</xr:LoadTransparent>
 					</Picture>
 					<ExtendedTooltip name="СтраницаВыбранныеПоляИСортировкиРасширеннаяПодсказка" id="127"/>
 					<ChildItems>
@@ -803,7 +801,7 @@
 									<RowPictureDataPath>ВыбранныеПоля.ИндексКартинки</RowPictureDataPath>
 									<RowsPicture>
 										<xr:Ref>CommonPicture.ПиктограммыНастроекОтчета</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</RowsPicture>
 									<CommandSet>
 										<ExcludedCommand>Change</ExcludedCommand>
@@ -820,7 +818,6 @@
 										<ExcludedCommand>SortListDesc</ExcludedCommand>
 										<ExcludedCommand>Tree</ExcludedCommand>
 									</CommandSet>
-									<TreeSpecialSearch>false</TreeSpecialSearch>
 									<ContextMenu name="ВыбранныеПоляКонтекстноеМеню" id="231">
 										<Autofill>false</Autofill>
 										<ChildItems>
@@ -1196,7 +1193,7 @@
 											<RowPictureDataPath>Сортировка.ИндексКартинки</RowPictureDataPath>
 											<RowsPicture>
 												<xr:Ref>CommonPicture.ПиктограммыНастроекОтчета</xr:Ref>
-												<xr:LoadTransparent>true</xr:LoadTransparent>
+												<xr:LoadTransparent>false</xr:LoadTransparent>
 											</RowsPicture>
 											<CommandSet>
 												<ExcludedCommand>Change</ExcludedCommand>
@@ -1210,7 +1207,6 @@
 												<ExcludedCommand>SortListAsc</ExcludedCommand>
 												<ExcludedCommand>SortListDesc</ExcludedCommand>
 											</CommandSet>
-											<TreeSpecialSearch>false</TreeSpecialSearch>
 											<ContextMenu name="СортировкаКонтекстноеМеню" id="131">
 												<Autofill>false</Autofill>
 												<ChildItems>
@@ -1541,7 +1537,7 @@
 									</Title>
 									<Picture>
 										<xr:Ref>CommonPicture.Информация</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</Picture>
 									<FileDragMode>AsFile</FileDragMode>
 									<ContextMenu name="КартинкаИнформация3КонтекстноеМеню" id="1005"/>
@@ -1580,7 +1576,7 @@
 					</ToolTip>
 					<Picture>
 						<xr:Ref>CommonPicture.Оформление</xr:Ref>
-						<xr:LoadTransparent>true</xr:LoadTransparent>
+						<xr:LoadTransparent>false</xr:LoadTransparent>
 					</Picture>
 					<ExtendedTooltip name="СтраницаОформлениеРасширеннаяПодсказка" id="591"/>
 					<ChildItems>
@@ -1634,7 +1630,7 @@
 									<DataPath>Оформление</DataPath>
 									<RowsPicture>
 										<xr:Ref>CommonPicture.ПиктограммыЭлементов</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</RowsPicture>
 									<CommandSet>
 										<ExcludedCommand>Change</ExcludedCommand>
@@ -1651,7 +1647,6 @@
 										<ExcludedCommand>SortListDesc</ExcludedCommand>
 										<ExcludedCommand>Tree</ExcludedCommand>
 									</CommandSet>
-									<TreeSpecialSearch>false</TreeSpecialSearch>
 									<ContextMenu name="ОформлениеКонтекстноеМеню" id="839"/>
 									<AutoCommandBar name="ОформлениеКоманднаяПанель" id="840">
 										<Autofill>false</Autofill>
@@ -1756,12 +1751,12 @@
 											<EditMode>EnterOnInput</EditMode>
 											<HeaderPicture>
 												<xr:Ref>CommonPicture.БыстрыйДоступ</xr:Ref>
-												<xr:LoadTransparent>true</xr:LoadTransparent>
+												<xr:LoadTransparent>false</xr:LoadTransparent>
 											</HeaderPicture>
 											<Width>2</Width>
 											<ValuesPicture>
 												<xr:Ref>CommonPicture.ПиктограммыДоступаКНастройкамОтчета</xr:Ref>
-												<xr:LoadTransparent>true</xr:LoadTransparent>
+												<xr:LoadTransparent>false</xr:LoadTransparent>
 											</ValuesPicture>
 											<FileDragMode>AsFile</FileDragMode>
 											<ContextMenu name="ОформлениеИндексКартинкиДоступаКонтекстноеМеню" id="898"/>
@@ -1800,7 +1795,7 @@
 									</Title>
 									<Picture>
 										<xr:Ref>CommonPicture.Информация</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</Picture>
 									<FileDragMode>AsFile</FileDragMode>
 									<ContextMenu name="КартинкаИнформация2КонтекстноеМеню" id="929"/>
@@ -1839,7 +1834,7 @@
 					</ToolTip>
 					<Picture>
 						<xr:Ref>CommonPicture.Структура</xr:Ref>
-						<xr:LoadTransparent>true</xr:LoadTransparent>
+						<xr:LoadTransparent>false</xr:LoadTransparent>
 					</Picture>
 					<ExtendedTooltip name="СтраницаСтруктураВариантаРасширеннаяПодсказка" id="428"/>
 					<ChildItems>
@@ -1860,7 +1855,7 @@
 							<RowPictureDataPath>СтруктураВарианта.ИндексКартинки</RowPictureDataPath>
 							<RowsPicture>
 								<xr:Ref>CommonPicture.ПиктограммыСтруктурыОтчета</xr:Ref>
-								<xr:LoadTransparent>true</xr:LoadTransparent>
+								<xr:LoadTransparent>false</xr:LoadTransparent>
 							</RowsPicture>
 							<CommandSet>
 								<ExcludedCommand>Change</ExcludedCommand>
@@ -1877,7 +1872,6 @@
 								<ExcludedCommand>SortListDesc</ExcludedCommand>
 								<ExcludedCommand>Tree</ExcludedCommand>
 							</CommandSet>
-							<TreeSpecialSearch>false</TreeSpecialSearch>
 							<ContextMenu name="СтруктураВариантаКонтекстноеМеню" id="430">
 								<Autofill>false</Autofill>
 								<ChildItems>
@@ -2246,14 +2240,14 @@
 									<EditMode>EnterOnInput</EditMode>
 									<HeaderPicture>
 										<xr:Ref>CommonPicture.Отборы</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</HeaderPicture>
 									<Width>2</Width>
 									<HorizontalStretch>false</HorizontalStretch>
 									<VerticalStretch>false</VerticalStretch>
 									<ValuesPicture>
 										<xr:Ref>CommonPicture.Отборы</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</ValuesPicture>
 									<FileDragMode>AsFile</FileDragMode>
 									<ContextMenu name="СтруктураВариантаСодержитОтборыКонтекстноеМеню" id="968"/>
@@ -2272,14 +2266,14 @@
 									<EditMode>EnterOnInput</EditMode>
 									<HeaderPicture>
 										<xr:Ref>CommonPicture.ПоляИСортировки</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</HeaderPicture>
 									<Width>2</Width>
 									<HorizontalStretch>false</HorizontalStretch>
 									<VerticalStretch>false</VerticalStretch>
 									<ValuesPicture>
 										<xr:Ref>CommonPicture.ПоляИСортировки</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</ValuesPicture>
 									<FileDragMode>AsFile</FileDragMode>
 									<ContextMenu name="СтруктураВариантаСодержитПоляИлиСортировкиКонтекстноеМеню" id="998"/>
@@ -2298,14 +2292,14 @@
 									<EditMode>EnterOnInput</EditMode>
 									<HeaderPicture>
 										<xr:Ref>CommonPicture.Оформление</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</HeaderPicture>
 									<Width>2</Width>
 									<HorizontalStretch>false</HorizontalStretch>
 									<VerticalStretch>false</VerticalStretch>
 									<ValuesPicture>
 										<xr:Ref>CommonPicture.Оформление</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</ValuesPicture>
 									<FileDragMode>AsFile</FileDragMode>
 									<ContextMenu name="СтруктураВариантаСодержитУсловноеОформлениеКонтекстноеМеню" id="935"/>
@@ -2338,7 +2332,7 @@
 							</Title>
 							<Picture>
 								<xr:Ref>CommonPicture.Информация</xr:Ref>
-								<xr:LoadTransparent>true</xr:LoadTransparent>
+								<xr:LoadTransparent>false</xr:LoadTransparent>
 							</Picture>
 							<FileDragMode>AsFile</FileDragMode>
 							<ContextMenu name="КартинкаИнформация4КонтекстноеМеню" id="1079"/>
@@ -2401,7 +2395,7 @@
 					</Title>
 					<Picture>
 						<xr:Ref>CommonPicture.Информация</xr:Ref>
-						<xr:LoadTransparent>true</xr:LoadTransparent>
+						<xr:LoadTransparent>false</xr:LoadTransparent>
 					</Picture>
 					<FileDragMode>AsFile</FileDragMode>
 					<ContextMenu name="КартинкаИнформацияКонтекстноеМеню" id="794"/>
@@ -2575,6 +2569,7 @@
 			<Edit>
 				<xr:Common>false</xr:Common>
 			</Edit>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ПостоянныеРеквизиты" id="4">
 			<Title>
@@ -2592,6 +2587,7 @@
 			<Edit>
 				<xr:Common>false</xr:Common>
 			</Edit>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ВариантНаименование" id="11">
 			<Title>
@@ -4252,7 +4248,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.ДобавитьРодительский</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>СтруктураВарианта_Сгруппировать</Action>
 			<Representation>Picture</Representation>
@@ -4273,7 +4269,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.ПереместитьВлевоВверх</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>СтруктураВарианта_ПереместитьВышеИЛевее</Action>
 			<Representation>Picture</Representation>
@@ -4294,7 +4290,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.ПереместитьВправоВниз</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>СтруктураВарианта_ПереместитьНижеИПравее</Action>
 			<Representation>Picture</Representation>
@@ -4577,7 +4573,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.ПереместитьВлевоВсе</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>ВыбранныеПоля_Сортировка_ВлевоВсе</Action>
 			<Representation>Picture</Representation>
@@ -4598,7 +4594,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.ВидСравнения</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>ИзменитьУсловияОтборов</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>

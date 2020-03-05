@@ -33,12 +33,12 @@
 					<Name>КаталогХранилища</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Каталог хранилища</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>1C Repository Folder</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Каталог хранилища</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -124,12 +124,12 @@
 					<Name>ВерсияПо</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>по</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>To</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>по</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -291,12 +291,12 @@
 							<Name>Версия</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Версия</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Version</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Версия</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -340,12 +340,12 @@
 							<Name>ДатаВерсии</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Дата версии</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Version date</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Дата версии</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -519,12 +519,12 @@
 							<Name>Задача</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Задача</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Task</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Задача</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -661,12 +661,12 @@
 							<Name>Версия</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Версия</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Version</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Версия</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>

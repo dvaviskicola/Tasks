@@ -27,12 +27,12 @@
 			<Name>НаборыДополнительныхРеквизитовИСведений</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Наборы дополнительных реквизитов и сведений</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Sets of additional attributes and information</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Наборы дополнительных реквизитов и сведений</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -222,12 +222,12 @@
 					<xr:MaxValue xsi:nil="true"/>
 					<xr:ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа, к которой относится набор.</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Group the set relates to.</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа, к которой относится набор.</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -246,12 +246,12 @@
 					<xr:MinValue xsi:nil="true"/>
 					<xr:Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Входит в группу</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Belongs to group</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Входит в группу</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -274,12 +274,12 @@
 					<xr:MaxValue xsi:nil="true"/>
 					<xr:ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Наименование набора свойств</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Properties set name</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Наименование набора свойств</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -359,12 +359,12 @@
 			<FullTextSearch>Use</FullTextSearch>
 			<ObjectPresentation>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Набор дополнительных реквизитов и сведений</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Set of Additional attributes and information</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Набор дополнительных реквизитов и сведений</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>

@@ -12,9 +12,9 @@
 		</ChildItems>
 	</AutoCommandBar>
 	<Events>
-		<Event name="AfterWrite">ПослеЗаписи</Event>
 		<Event name="OnOpen">ПриОткрытии</Event>
 		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+		<Event name="AfterWrite">ПослеЗаписи</Event>
 		<Event name="BeforeWriteAtServer">ПередЗаписьюНаСервере</Event>
 	</Events>
 	<ChildItems>
@@ -301,6 +301,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 	</Attributes>
 	<Commands>
@@ -360,8 +361,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.СинхронизацияДанныхВыполнение</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
-				<xr:TransparentPixel x="7" y="5"/>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>ВыполнитьОбмен</Action>
 			<Representation>TextPicture</Representation>
@@ -393,29 +393,29 @@
 			<Item>
 				<Command>0</Command>
 				<Type>Added</Type>
-				<Attribute>Items.СоставРасписания.CurrentData.УзелИнформационнойБазы</Attribute>
 				<DefaultVisible>false</DefaultVisible>
+				<Attribute>Items.СоставРасписания.CurrentData.УзелИнформационнойБазы</Attribute>
 			</Item>
 			<Item>
 				<Command>0</Command>
 				<Type>Added</Type>
+				<DefaultVisible>false</DefaultVisible>
 				<Attribute>Items.СоставРасписания.CurrentData.УзелИнформационнойБазы</Attribute>
 				<Index>3</Index>
-				<DefaultVisible>false</DefaultVisible>
 			</Item>
 			<Item>
 				<Command>0</Command>
 				<Type>Added</Type>
+				<DefaultVisible>false</DefaultVisible>
 				<Attribute>Items.СоставРасписания.CurrentData.УзелИнформационнойБазы</Attribute>
 				<Index>1</Index>
-				<DefaultVisible>false</DefaultVisible>
 			</Item>
 			<Item>
 				<Command>0</Command>
 				<Type>Added</Type>
+				<DefaultVisible>false</DefaultVisible>
 				<Attribute>Items.СоставРасписания.CurrentData.УзелИнформационнойБазы</Attribute>
 				<Index>2</Index>
-				<DefaultVisible>false</DefaultVisible>
 			</Item>
 		</NavigationPanel>
 	</CommandInterface>

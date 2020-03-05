@@ -174,7 +174,6 @@
 									<SearchStringLocation>None</SearchStringLocation>
 									<ViewStatusLocation>None</ViewStatusLocation>
 									<SearchControlLocation>None</SearchControlLocation>
-									<TreeSpecialSearch>false</TreeSpecialSearch>
 									<ContextMenu name="ВнешнийВидКонтекстноеМеню" id="30">
 										<ChildItems>
 											<Button name="ВнешнийВидКонтекстноеМенюОткрыть" id="76">
@@ -327,7 +326,6 @@
 									<SearchStringLocation>None</SearchStringLocation>
 									<ViewStatusLocation>None</ViewStatusLocation>
 									<SearchControlLocation>None</SearchControlLocation>
-									<TreeSpecialSearch>false</TreeSpecialSearch>
 									<ContextMenu name="НастройкиОтчетовДеревоКонтекстноеМеню" id="20">
 										<ChildItems>
 											<Button name="НастройкиОтчетовДеревоКонтекстноеМенюОткрыть" id="65">
@@ -482,7 +480,6 @@
 									<SearchStringLocation>None</SearchStringLocation>
 									<ViewStatusLocation>None</ViewStatusLocation>
 									<SearchControlLocation>None</SearchControlLocation>
-									<TreeSpecialSearch>false</TreeSpecialSearch>
 									<ContextMenu name="ПрочиеНастройкиКонтекстноеМеню" id="87">
 										<ChildItems>
 											<Button name="ПрочиеНастройкиКонтекстноеМенюОткрыть" id="100">

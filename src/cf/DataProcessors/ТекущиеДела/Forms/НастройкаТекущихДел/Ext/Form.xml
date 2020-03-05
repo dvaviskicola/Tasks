@@ -62,7 +62,6 @@
 									<SearchStringLocation>None</SearchStringLocation>
 									<ViewStatusLocation>None</ViewStatusLocation>
 									<SearchControlLocation>None</SearchControlLocation>
-									<TreeSpecialSearch>false</TreeSpecialSearch>
 									<ContextMenu name="ДеревоОтображаемыхДелКонтекстноеМеню" id="8"/>
 									<AutoCommandBar name="ДеревоОтображаемыхДелКоманднаяПанель" id="9">
 										<Autofill>false</Autofill>

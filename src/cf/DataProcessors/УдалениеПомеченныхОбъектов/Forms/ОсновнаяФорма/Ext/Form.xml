@@ -189,7 +189,7 @@
 							<RowPictureDataPath>ДеревоПомеченныхНаУдаление.НомерКартинки</RowPictureDataPath>
 							<RowsPicture>
 								<xr:Ref>CommonPicture.ПиктограммыЭлементов</xr:Ref>
-								<xr:LoadTransparent>true</xr:LoadTransparent>
+								<xr:LoadTransparent>false</xr:LoadTransparent>
 							</RowsPicture>
 							<BorderColor>style:BorderColor</BorderColor>
 							<Title>
@@ -215,7 +215,6 @@
 							<SearchStringLocation>None</SearchStringLocation>
 							<ViewStatusLocation>None</ViewStatusLocation>
 							<SearchControlLocation>None</SearchControlLocation>
-							<TreeSpecialSearch>false</TreeSpecialSearch>
 							<ContextMenu name="ДеревоПомеченныхНаУдалениеКонтекстноеМеню" id="27">
 								<ChildItems>
 									<ButtonGroup name="КомандыВыбораИзМеню" id="363">
@@ -453,7 +452,7 @@
 									</Title>
 									<Picture>
 										<xr:Ref>CommonPicture.ДлительнаяОперация48</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</Picture>
 									<FileDragMode>AsFile</FileDragMode>
 									<ContextMenu name="ФоновоеЗаданиеАнимацияКонтекстноеМеню" id="447"/>
@@ -631,7 +630,7 @@
 											<RowPictureDataPath>НеУдаленные.НомерКартинки</RowPictureDataPath>
 											<RowsPicture>
 												<xr:Ref>CommonPicture.ПиктограммыЭлементов</xr:Ref>
-												<xr:LoadTransparent>true</xr:LoadTransparent>
+												<xr:LoadTransparent>false</xr:LoadTransparent>
 											</RowsPicture>
 											<CommandSet>
 												<ExcludedCommand>Add</ExcludedCommand>
@@ -650,7 +649,6 @@
 											<SearchStringLocation>None</SearchStringLocation>
 											<ViewStatusLocation>None</ViewStatusLocation>
 											<SearchControlLocation>None</SearchControlLocation>
-											<TreeSpecialSearch>false</TreeSpecialSearch>
 											<ContextMenu name="НеУдаленныеКонтекстноеМеню" id="221">
 												<ChildItems>
 													<Button name="НеУдаленныеИзменитьИзМеню" id="348">
@@ -843,7 +841,7 @@
 															<RowPictureDataPath>СвязиНеУдаленных.НомерКартинки</RowPictureDataPath>
 															<RowsPicture>
 																<xr:Ref>CommonPicture.ПиктограммыЭлементов</xr:Ref>
-																<xr:LoadTransparent>true</xr:LoadTransparent>
+																<xr:LoadTransparent>false</xr:LoadTransparent>
 															</RowsPicture>
 															<CommandSet>
 																<ExcludedCommand>Add</ExcludedCommand>

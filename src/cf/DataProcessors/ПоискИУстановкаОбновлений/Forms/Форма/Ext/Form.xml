@@ -139,8 +139,7 @@
 											<SkipOnInput>false</SkipOnInput>
 											<Picture>
 												<xr:Ref>CommonPicture.Предупреждение32</xr:Ref>
-												<xr:LoadTransparent>true</xr:LoadTransparent>
-												<xr:TransparentPixel x="30" y="6"/>
+												<xr:LoadTransparent>false</xr:LoadTransparent>
 											</Picture>
 											<FileDragMode>AsFile</FileDragMode>
 											<ContextMenu name="ДекорацияКартинкаКонтекстноеМеню" id="26"/>
@@ -360,8 +359,7 @@
 											<SkipOnInput>false</SkipOnInput>
 											<Picture>
 												<xr:Ref>CommonPicture.Предупреждение32</xr:Ref>
-												<xr:LoadTransparent>true</xr:LoadTransparent>
-												<xr:TransparentPixel x="30" y="6"/>
+												<xr:LoadTransparent>false</xr:LoadTransparent>
 											</Picture>
 											<FileDragMode>AsFile</FileDragMode>
 											<ContextMenu name="ДекорацияКартинка1КонтекстноеМеню" id="53"/>
@@ -639,8 +637,7 @@
 											<SkipOnInput>false</SkipOnInput>
 											<Picture>
 												<xr:Ref>CommonPicture.Информация32</xr:Ref>
-												<xr:LoadTransparent>true</xr:LoadTransparent>
-												<xr:TransparentPixel x="30" y="2"/>
+												<xr:LoadTransparent>false</xr:LoadTransparent>
 											</Picture>
 											<FileDragMode>AsFile</FileDragMode>
 											<ContextMenu name="Картинка5КонтекстноеМеню" id="290"/>
@@ -761,8 +758,7 @@
 											<SkipOnInput>false</SkipOnInput>
 											<Picture>
 												<xr:Ref>CommonPicture.Информация32</xr:Ref>
-												<xr:LoadTransparent>true</xr:LoadTransparent>
-												<xr:TransparentPixel x="30" y="2"/>
+												<xr:LoadTransparent>false</xr:LoadTransparent>
 											</Picture>
 											<FileDragMode>AsFile</FileDragMode>
 											<ContextMenu name="ДекорацияКартинка2КонтекстноеМеню" id="85"/>
@@ -884,8 +880,7 @@
 											<SkipOnInput>false</SkipOnInput>
 											<Picture>
 												<xr:Ref>CommonPicture.Предупреждение32</xr:Ref>
-												<xr:LoadTransparent>true</xr:LoadTransparent>
-												<xr:TransparentPixel x="30" y="6"/>
+												<xr:LoadTransparent>false</xr:LoadTransparent>
 											</Picture>
 											<FileDragMode>AsFile</FileDragMode>
 											<ContextMenu name="ДекорацияКартинка21КонтекстноеМеню" id="105"/>
@@ -1006,8 +1001,7 @@
 																	<SkipOnInput>false</SkipOnInput>
 																	<Picture>
 																		<xr:Ref>CommonPicture.Информация32</xr:Ref>
-																		<xr:LoadTransparent>true</xr:LoadTransparent>
-																		<xr:TransparentPixel x="30" y="2"/>
+																		<xr:LoadTransparent>false</xr:LoadTransparent>
 																	</Picture>
 																	<FileDragMode>AsFile</FileDragMode>
 																	<ContextMenu name="Картинка26КонтекстноеМеню" id="122"/>
@@ -1126,8 +1120,7 @@
 																	<SkipOnInput>false</SkipOnInput>
 																	<Picture>
 																		<xr:Ref>CommonPicture.Информация32</xr:Ref>
-																		<xr:LoadTransparent>true</xr:LoadTransparent>
-																		<xr:TransparentPixel x="30" y="2"/>
+																		<xr:LoadTransparent>false</xr:LoadTransparent>
 																	</Picture>
 																	<FileDragMode>AsFile</FileDragMode>
 																	<ContextMenu name="Картинка27КонтекстноеМеню" id="617"/>
@@ -1483,8 +1476,7 @@
 											<SkipOnInput>false</SkipOnInput>
 											<Picture>
 												<xr:Ref>CommonPicture.Предупреждение32</xr:Ref>
-												<xr:LoadTransparent>true</xr:LoadTransparent>
-												<xr:TransparentPixel x="30" y="6"/>
+												<xr:LoadTransparent>false</xr:LoadTransparent>
 											</Picture>
 											<FileDragMode>AsFile</FileDragMode>
 											<ContextMenu name="Картинка1КонтекстноеМеню" id="181"/>
@@ -1921,8 +1913,7 @@
 															<SkipOnInput>false</SkipOnInput>
 															<Picture>
 																<xr:Ref>CommonPicture.Предупреждение32</xr:Ref>
-																<xr:LoadTransparent>true</xr:LoadTransparent>
-																<xr:TransparentPixel x="30" y="6"/>
+																<xr:LoadTransparent>false</xr:LoadTransparent>
 															</Picture>
 															<FileDragMode>AsFile</FileDragMode>
 															<ContextMenu name="Картинка2КонтекстноеМеню" id="222"/>
@@ -2354,6 +2345,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ВосстановлениеРезультатовПредЗапуска" id="22">
 			<Title>

@@ -77,7 +77,6 @@
 			<SearchStringLocation>None</SearchStringLocation>
 			<ViewStatusLocation>None</ViewStatusLocation>
 			<SearchControlLocation>None</SearchControlLocation>
-			<TreeSpecialSearch>false</TreeSpecialSearch>
 			<ContextMenu name="ДеревоПодсистемКонтекстноеМеню" id="8">
 				<ChildItems>
 					<Button name="ДеревоПодсистемКонтекстноеМенюСнятьФлажки" id="78">

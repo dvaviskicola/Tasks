@@ -199,7 +199,7 @@
 													<RowPictureDataPath>РеквизитыОбъекта.ВидОперации</RowPictureDataPath>
 													<RowsPicture>
 														<xr:Ref>CommonPicture.ВидыОпераций</xr:Ref>
-														<xr:LoadTransparent>true</xr:LoadTransparent>
+														<xr:LoadTransparent>false</xr:LoadTransparent>
 													</RowsPicture>
 													<Title>
 														<v8:item>
@@ -310,7 +310,7 @@
 															<Height>3</Height>
 															<Picture>
 																<xr:Ref>CommonPicture.Информация32</xr:Ref>
-																<xr:LoadTransparent>true</xr:LoadTransparent>
+																<xr:LoadTransparent>false</xr:LoadTransparent>
 															</Picture>
 															<FileDragMode>AsFile</FileDragMode>
 															<ContextMenu name="Декорация2КонтекстноеМеню" id="264"/>
@@ -803,6 +803,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="НекорректныйВызовОбработки" id="12">
 			<Title>
@@ -1121,6 +1122,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="Причина" id="27">
 			<Title>
@@ -1235,6 +1237,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ОбработкаЗавершена" id="32">
 			<Title>

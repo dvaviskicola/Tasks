@@ -116,7 +116,6 @@
 													<SearchStringLocation>None</SearchStringLocation>
 													<ViewStatusLocation>None</ViewStatusLocation>
 													<SearchControlLocation>None</SearchControlLocation>
-													<TreeSpecialSearch>false</TreeSpecialSearch>
 													<ContextMenu name="ДеревоОперандовКонтекстноеМеню" id="70"/>
 													<AutoCommandBar name="ДеревоОперандовКоманднаяПанель" id="71">
 														<Autofill>false</Autofill>
@@ -399,7 +398,6 @@
 									<SearchStringLocation>None</SearchStringLocation>
 									<ViewStatusLocation>None</ViewStatusLocation>
 									<SearchControlLocation>None</SearchControlLocation>
-									<TreeSpecialSearch>false</TreeSpecialSearch>
 									<ContextMenu name="ОператорыКонтекстноеМеню" id="9"/>
 									<AutoCommandBar name="ОператорыКоманднаяПанель" id="10"/>
 									<ExtendedTooltip name="ОператорыExtendedTooltip" id="44"/>

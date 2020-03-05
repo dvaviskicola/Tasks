@@ -99,7 +99,6 @@
 			<SearchStringLocation>None</SearchStringLocation>
 			<ViewStatusLocation>None</ViewStatusLocation>
 			<SearchControlLocation>None</SearchControlLocation>
-			<TreeSpecialSearch>false</TreeSpecialSearch>
 			<ContextMenu name="СписокКонтекстноеМеню" id="13">
 				<Autofill>false</Autofill>
 				<ChildItems>
@@ -619,22 +618,22 @@
 			<Item>
 				<Command>Form.Command.СделатьАктивной</Command>
 				<Type>Added</Type>
-				<CommandGroup>FormCommandBarImportant</CommandGroup>
 				<DefaultVisible>false</DefaultVisible>
+				<CommandGroup>FormCommandBarImportant</CommandGroup>
 			</Item>
 			<Item>
 				<Command>Form.Command.ПометитьНаУдаление</Command>
 				<Type>Added</Type>
+				<DefaultVisible>false</DefaultVisible>
 				<CommandGroup>FormCommandBarImportant</CommandGroup>
 				<Index>1</Index>
-				<DefaultVisible>false</DefaultVisible>
 			</Item>
 			<Item>
 				<Command>Form.Command.ОткрытьКарточку</Command>
 				<Type>Added</Type>
+				<DefaultVisible>false</DefaultVisible>
 				<CommandGroup>FormCommandBarImportant</CommandGroup>
 				<Index>2</Index>
-				<DefaultVisible>false</DefaultVisible>
 			</Item>
 		</CommandBar>
 	</CommandInterface>

@@ -43,9 +43,9 @@
 		</ChildItems>
 	</AutoCommandBar>
 	<Events>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 		<Event name="AfterWrite">ПослеЗаписи</Event>
 		<Event name="OnReadAtServer">ПриЧтенииНаСервере</Event>
-		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 	</Events>
 	<ChildItems>
 		<UsualGroup name="ГруппаШапка" id="21">
@@ -225,6 +225,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 	</Attributes>
 	<Commands>

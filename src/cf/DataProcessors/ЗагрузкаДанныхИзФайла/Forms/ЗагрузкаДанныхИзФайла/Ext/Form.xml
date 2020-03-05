@@ -395,7 +395,7 @@
 									</Title>
 									<Picture>
 										<xr:Ref>CommonPicture.Информация32</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</Picture>
 									<FileDragMode>AsFile</FileDragMode>
 									<ContextMenu name="ДекорацияИнформация32КонтекстноеМеню" id="549"/>
@@ -1359,6 +1359,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ШаблонСДанными" id="4">
 			<Title>
@@ -1397,6 +1398,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="СоздаватьЕслиНеСопоставлено" id="11">
 			<Title>

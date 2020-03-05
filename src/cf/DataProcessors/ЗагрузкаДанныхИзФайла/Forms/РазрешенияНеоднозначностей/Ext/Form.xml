@@ -110,7 +110,6 @@
 			<SearchStringLocation>None</SearchStringLocation>
 			<ViewStatusLocation>None</ViewStatusLocation>
 			<SearchControlLocation>None</SearchControlLocation>
-			<TreeSpecialSearch>false</TreeSpecialSearch>
 			<ContextMenu name="ВариантыВыбораКонтекстноеМеню" id="41"/>
 			<AutoCommandBar name="ВариантыВыбораКоманднаяПанель" id="42">
 				<ChildItems>
@@ -444,6 +443,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ВариантыВыбора" id="6">
 			<Title>

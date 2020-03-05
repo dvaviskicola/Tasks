@@ -328,7 +328,6 @@
 							<SearchStringLocation>None</SearchStringLocation>
 							<ViewStatusLocation>None</ViewStatusLocation>
 							<SearchControlLocation>None</SearchControlLocation>
-							<TreeSpecialSearch>false</TreeSpecialSearch>
 							<ContextMenu name="РолиКонтекстноеМеню" id="86">
 								<Autofill>false</Autofill>
 							</ContextMenu>

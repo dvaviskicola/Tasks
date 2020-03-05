@@ -61,7 +61,6 @@
 			<SearchStringLocation>None</SearchStringLocation>
 			<ViewStatusLocation>None</ViewStatusLocation>
 			<SearchControlLocation>None</SearchControlLocation>
-			<TreeSpecialSearch>false</TreeSpecialSearch>
 			<ContextMenu name="ГруппыДоступаКонтекстноеМеню" id="2"/>
 			<AutoCommandBar name="ГруппыДоступаКоманднаяПанель" id="3">
 				<Autofill>false</Autofill>

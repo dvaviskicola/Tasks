@@ -79,7 +79,6 @@
 					<SearchStringLocation>None</SearchStringLocation>
 					<ViewStatusLocation>None</ViewStatusLocation>
 					<SearchControlLocation>None</SearchControlLocation>
-					<TreeSpecialSearch>false</TreeSpecialSearch>
 					<ContextMenu name="ВсеКомандыКонтекстноеМеню" id="8"/>
 					<AutoCommandBar name="ВсеКомандыКоманднаяПанель" id="9"/>
 					<ExtendedTooltip name="ВсеКомандыРасширеннаяПодсказка" id="22"/>
@@ -190,7 +189,6 @@
 					<SearchStringLocation>None</SearchStringLocation>
 					<ViewStatusLocation>None</ViewStatusLocation>
 					<SearchControlLocation>None</SearchControlLocation>
-					<TreeSpecialSearch>false</TreeSpecialSearch>
 					<ContextMenu name="МоиКомандыКонтекстноеМеню" id="2"/>
 					<AutoCommandBar name="МоиКомандыКоманднаяПанель" id="3">
 						<Autofill>false</Autofill>

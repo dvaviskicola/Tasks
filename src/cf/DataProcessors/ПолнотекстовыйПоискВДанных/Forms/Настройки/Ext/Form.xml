@@ -182,7 +182,6 @@
 				<ExcludedCommand>SortListDesc</ExcludedCommand>
 				<ExcludedCommand>Tree</ExcludedCommand>
 			</CommandSet>
-			<TreeSpecialSearch>false</TreeSpecialSearch>
 			<ContextMenu name="ДеревоРазделовПоискаКонтекстноеМеню" id="5"/>
 			<AutoCommandBar name="ДеревоРазделовПоискаКоманднаяПанель" id="6"/>
 			<ExtendedTooltip name="ДеревоРазделовПоискаРасширеннаяПодсказка" id="7"/>
@@ -358,6 +357,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ТекущийРаздел" id="5">
 			<Title>

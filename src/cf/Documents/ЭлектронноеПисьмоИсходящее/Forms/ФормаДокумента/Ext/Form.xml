@@ -131,17 +131,17 @@
 		</ChildItems>
 	</AutoCommandBar>
 	<Events>
-		<Event name="AfterWrite">ПослеЗаписи</Event>
 		<Event name="ChoiceProcessing">ОбработкаВыбора</Event>
-		<Event name="AfterWriteAtServer">ПослеЗаписиНаСервере</Event>
 		<Event name="NotificationProcessing">ОбработкаОповещения</Event>
-		<Event name="OnReadAtServer">ПриЧтенииНаСервере</Event>
 		<Event name="OnOpen">ПриОткрытии</Event>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+		<Event name="FillCheckProcessingAtServer">ОбработкаПроверкиЗаполненияНаСервере</Event>
+		<Event name="AfterWrite">ПослеЗаписи</Event>
+		<Event name="AfterWriteAtServer">ПослеЗаписиНаСервере</Event>
+		<Event name="OnReadAtServer">ПриЧтенииНаСервере</Event>
 		<Event name="BeforeWrite">ПередЗаписью</Event>
 		<Event name="BeforeWriteAtServer">ПередЗаписьюНаСервере</Event>
-		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 		<Event name="OnWriteAtServer">ПриЗаписиНаСервере</Event>
-		<Event name="FillCheckProcessingAtServer">ОбработкаПроверкиЗаполненияНаСервере</Event>
 	</Events>
 	<ChildItems>
 		<UsualGroup name="ГруппаЛево" id="361">
@@ -992,6 +992,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="Вложения" id="3">
 			<Title>
@@ -1517,7 +1518,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.Скрепка</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>ДобавитьВложениеВыполнить</Action>
 			<ModifiesSavedData>true</ModifiesSavedData>
@@ -1677,7 +1678,7 @@
 			<Shortcut>Ctrl+Shift+V</Shortcut>
 			<Picture>
 				<xr:Ref>CommonPicture.ВнешняяСсылкаНаОбъектИнформационнойБазы</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>ВставитьВнешнююСсылкуНаОбъектИнформационнойБазы</Action>
 			<ModifiesSavedData>true</ModifiesSavedData>
@@ -1793,8 +1794,8 @@
 			<Item>
 				<Command>0:b6ae3a72-c686-409d-9cda-9d1a00be1d8d</Command>
 				<Type>Auto</Type>
-				<CommandGroup>CommandGroup.Взаимодействия</CommandGroup>
 				<DefaultVisible>false</DefaultVisible>
+				<CommandGroup>CommandGroup.Взаимодействия</CommandGroup>
 				<Visible>
 					<xr:Common>false</xr:Common>
 				</Visible>

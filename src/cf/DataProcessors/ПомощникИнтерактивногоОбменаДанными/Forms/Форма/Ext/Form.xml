@@ -498,7 +498,6 @@
 							<SearchStringLocation>None</SearchStringLocation>
 							<ViewStatusLocation>None</ViewStatusLocation>
 							<SearchControlLocation>None</SearchControlLocation>
-							<TreeSpecialSearch>false</TreeSpecialSearch>
 							<ContextMenu name="ДеревоИнформацииСтатистикиКонтекстноеМеню" id="406">
 								<ChildItems>
 									<Button name="КонтекстноеМенюИнформацияСтатистикиОткрытьФормуСопоставления" id="367">
@@ -615,7 +614,7 @@
 									<EditMode>EnterOnInput</EditMode>
 									<HeaderPicture>
 										<xr:Ref>CommonPicture.Информация</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
+										<xr:LoadTransparent>false</xr:LoadTransparent>
 									</HeaderPicture>
 									<Width>2</Width>
 									<ValuesPicture>
@@ -2133,7 +2132,7 @@
 							<Height>2</Height>
 							<Picture>
 								<xr:Ref>CommonPicture.Предупреждение32</xr:Ref>
-								<xr:LoadTransparent>true</xr:LoadTransparent>
+								<xr:LoadTransparent>false</xr:LoadTransparent>
 							</Picture>
 							<FileDragMode>AsFile</FileDragMode>
 							<ContextMenu name="КартинкаОшибкаРасхожденияВерсийКонтекстноеМеню" id="920"/>
@@ -3195,7 +3194,8 @@
 				<v8:Type>cfg:DataProcessorObject.ИнтерактивноеИзменениеВыгрузки</v8:Type>
 			</Type>
 			<Columns>
-				<AdditionalColumns table="ДополнениеВыгрузки.ДополнительнаяРегистрация"/>
+				<AdditionalColumns table="ДополнениеВыгрузки.ДополнительнаяРегистрация">
+				</AdditionalColumns>
 			</Columns>
 		</Attribute>
 		<Attribute name="АдресНастроекДополненияВыгрузки" id="34">
@@ -3461,8 +3461,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.СинхронизацияДанныхВыполнение</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
-				<xr:TransparentPixel x="7" y="5"/>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>ВыполнитьЗагрузкуДанныхДляСтроки</Action>
 			<Representation>TextPicture</Representation>

@@ -118,7 +118,6 @@
 				<ExcludedCommand>SortListDesc</ExcludedCommand>
 				<ExcludedCommand>Tree</ExcludedCommand>
 			</CommandSet>
-			<TreeSpecialSearch>false</TreeSpecialSearch>
 			<ContextMenu name="ДеревоОбъектовМетаданныхКонтекстноеМеню" id="14">
 				<ChildItems>
 					<Button name="ДеревоОбъектовМетаданныхКонтекстноеМенюСоздатьСинхронизациюФайлов" id="84">
@@ -696,7 +695,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.СинхронизацияДанных</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>Синхронизировать</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>

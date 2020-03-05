@@ -31,12 +31,12 @@
 			<Name>Задание</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Задание</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Command</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Задание</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -290,12 +290,12 @@
 			<ExtendedObjectPresentation/>
 			<ListPresentation>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Задания</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>ro</v8:lang>
 					<v8:content>Sarcinile</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Задания</v8:content>
 				</v8:item>
 			</ListPresentation>
 			<ExtendedListPresentation/>

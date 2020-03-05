@@ -471,7 +471,6 @@
 			<SearchStringLocation>None</SearchStringLocation>
 			<ViewStatusLocation>None</ViewStatusLocation>
 			<SearchControlLocation>None</SearchControlLocation>
-			<TreeSpecialSearch>false</TreeSpecialSearch>
 			<ContextMenu name="ДеревоЗадачКонтекстноеМеню" id="26">
 				<Autofill>false</Autofill>
 				<ChildItems>

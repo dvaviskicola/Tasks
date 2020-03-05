@@ -67,12 +67,12 @@
 		<UsualGroup name="ГруппаЧастотныйСервис" id="1431">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Группа частотный сервис</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Frequency service group</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа частотный сервис</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -81,12 +81,12 @@
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Группа частотный сервис</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Frequency service group</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа частотный сервис</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -125,12 +125,12 @@
 		<UsualGroup name="ГруппаОтчетыИОбработки" id="1712">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Отчеты и обработки</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Reports and data processors</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Отчеты и обработки</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -252,12 +252,12 @@
 		<UsualGroup name="ГруппаРегламентныеОперации" id="1527">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Регламентные операции</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Scheduled operations</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Регламентные операции</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -267,12 +267,12 @@
 			<TitleFont ref="sys:DefaultGUIFont" height="11" bold="true" italic="false" underline="false" strikeout="false" kind="WindowsFont"/>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Регламентные операции</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Scheduled operations</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Регламентные операции</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -309,12 +309,12 @@
 									<TextColor>style:ПоясняющийТекст</TextColor>
 									<Title formatted="false">
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Планирование и запуск регламентных заданий.</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Scheduled jobs scheduling and launch</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Планирование и запуск регламентных заданий.</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -430,12 +430,12 @@ Reconstruction, aggregates filling and optimization.</v8:content>
 									<CommandName>Form.Command.УправлениеПолнотекстовымПоискомИИзвлечениемТекстов</CommandName>
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Управление полнотекстовым поиском</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Full text search management</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Управление полнотекстовым поиском</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -515,12 +515,12 @@ Managing text extraction from files.</v8:content>
 									<TextColor>style:ПоясняющийТекст</TextColor>
 									<Title formatted="false">
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Запрет изменения данных прошлых периодов.</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Restrict changes of previous period data.</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Запрет изменения данных прошлых периодов.</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -551,12 +551,12 @@ Managing text extraction from files.</v8:content>
 									<CommandName>Form.Command.НастроитьДатыЗапретаИзменения</CommandName>
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Настроить</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Configure</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Настроить</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -639,12 +639,12 @@ Managing text extraction from files.</v8:content>
 		<UsualGroup name="ГруппаРезервноеКопированиеИВосстановление" id="1467">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Резервное копирование и восстановление</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Backup and recovery</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Резервное копирование и восстановление</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -654,12 +654,12 @@ Managing text extraction from files.</v8:content>
 			<TitleFont ref="sys:DefaultGUIFont" height="11" bold="true" italic="false" underline="false" strikeout="false" kind="WindowsFont"/>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Резервное копирование и восстановление</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Backup and recovery</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Резервное копирование и восстановление</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -708,12 +708,12 @@ Managing text extraction from files.</v8:content>
 										<LabelDecoration name="РезервноеКопированиеПрограммы" id="1570">
 											<Title formatted="false">
 												<v8:item>
-													<v8:lang>ru</v8:lang>
-													<v8:content>Создание резервной копии</v8:content>
-												</v8:item>
-												<v8:item>
 													<v8:lang>en</v8:lang>
 													<v8:content>Backup creation</v8:content>
+												</v8:item>
+												<v8:item>
+													<v8:lang>ru</v8:lang>
+													<v8:content>Создание резервной копии</v8:content>
 												</v8:item>
 												<v8:item>
 													<v8:lang>ro</v8:lang>
@@ -731,12 +731,12 @@ Managing text extraction from files.</v8:content>
 											<TextColor>style:ПоясняющийТекст</TextColor>
 											<Title formatted="false">
 												<v8:item>
-													<v8:lang>ru</v8:lang>
-													<v8:content>Запуск процедуры создания резервной копии.</v8:content>
-												</v8:item>
-												<v8:item>
 													<v8:lang>en</v8:lang>
 													<v8:content>Start data backup.</v8:content>
+												</v8:item>
+												<v8:item>
+													<v8:lang>ru</v8:lang>
+													<v8:content>Запуск процедуры создания резервной копии.</v8:content>
 												</v8:item>
 												<v8:item>
 													<v8:lang>ro</v8:lang>
@@ -751,12 +751,12 @@ Managing text extraction from files.</v8:content>
 								<UsualGroup name="ГруппаВосстановлениеРезервнойКопии" id="1476">
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Группа восстановление резервной копии</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Group backup recovery</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Группа восстановление резервной копии</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -765,12 +765,12 @@ Managing text extraction from files.</v8:content>
 									</Title>
 									<ToolTip>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Группа восстановление резервной копии</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Group backup recovery</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Группа восстановление резервной копии</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -787,12 +787,12 @@ Managing text extraction from files.</v8:content>
 										<LabelDecoration name="ВосстановлениеИзРезервнойКопии" id="1568">
 											<Title formatted="false">
 												<v8:item>
-													<v8:lang>ru</v8:lang>
-													<v8:content>Восстановление из резервной копии</v8:content>
-												</v8:item>
-												<v8:item>
 													<v8:lang>en</v8:lang>
 													<v8:content>Recovery from the backup copy</v8:content>
+												</v8:item>
+												<v8:item>
+													<v8:lang>ru</v8:lang>
+													<v8:content>Восстановление из резервной копии</v8:content>
 												</v8:item>
 												<v8:item>
 													<v8:lang>ro</v8:lang>
@@ -810,12 +810,12 @@ Managing text extraction from files.</v8:content>
 											<TextColor>style:ПоясняющийТекст</TextColor>
 											<Title formatted="false">
 												<v8:item>
-													<v8:lang>ru</v8:lang>
-													<v8:content>Запуск восстановления данных из файлов резервной копии.</v8:content>
-												</v8:item>
-												<v8:item>
 													<v8:lang>en</v8:lang>
 													<v8:content>Launch of the data recovery out of the backup files.</v8:content>
+												</v8:item>
+												<v8:item>
+													<v8:lang>ru</v8:lang>
+													<v8:content>Запуск восстановления данных из файлов резервной копии.</v8:content>
 												</v8:item>
 												<v8:item>
 													<v8:lang>ro</v8:lang>
@@ -832,12 +832,12 @@ Managing text extraction from files.</v8:content>
 						<UsualGroup name="ГруппаНастройкаРезервногоКопирования" id="1479">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа настройка резервного копирования</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Group backup setup</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Группа настройка резервного копирования</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -846,12 +846,12 @@ Managing text extraction from files.</v8:content>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа настройка резервного копирования</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Group backup setup</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Группа настройка резервного копирования</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -868,12 +868,12 @@ Managing text extraction from files.</v8:content>
 								<LabelDecoration name="НастройкаРезервногоКопирования" id="1572">
 									<Title formatted="false">
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Настройка резервного копирования</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Backup setup</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Настройка резервного копирования</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -891,12 +891,12 @@ Managing text extraction from files.</v8:content>
 									<TextColor>style:ПоясняющийТекст</TextColor>
 									<Title formatted="false">
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Настройка параметров резервного копирования.</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Backup parameters setup.</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Настройка параметров резервного копирования.</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -916,12 +916,12 @@ Managing text extraction from files.</v8:content>
 		<UsualGroup name="ГруппаВерсионирование" id="1801">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Версионирование объектов</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Object versioning</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Версионирование объектов</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -968,12 +968,12 @@ Managing text extraction from files.</v8:content>
 							<DataPath>НаборКонстант.ИспользоватьВерсионированиеОбъектов</DataPath>
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Версионирование объектов</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Object versioning</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Версионирование объектов</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -993,12 +993,12 @@ Managing text extraction from files.</v8:content>
 							<TextColor>style:ПоясняющийТекст</TextColor>
 							<Title formatted="false">
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Хранение и просмотр версий документов и справочников программы.</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Store and view the application document and catalog versions.</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Хранение и просмотр версий документов и справочников программы.</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -1060,12 +1060,12 @@ Managing text extraction from files.</v8:content>
 			<Enabled>false</Enabled>
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Оценка производительности</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Performance estimation</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Оценка производительности</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -1107,12 +1107,12 @@ Managing text extraction from files.</v8:content>
 						<CheckBoxField name="ВыполнятьЗамерыПроизводительности" id="1590">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Оценка производительности</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Performance estimation</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Оценка производительности</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -1131,12 +1131,12 @@ Managing text extraction from files.</v8:content>
 							<TextColor>style:ПоясняющийТекст</TextColor>
 							<Title formatted="false">
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Оценка интегральной производительности программы по методике APDEX.</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Integrated application performance assessment using the APDEX procedure.</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Оценка интегральной производительности программы по методике APDEX.</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -1171,12 +1171,12 @@ Managing text extraction from files.</v8:content>
 							<CommandName>0</CommandName>
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Показатели производительности</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Performance indicators</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Показатели производительности</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -1189,12 +1189,12 @@ Managing text extraction from files.</v8:content>
 							<TextColor>style:ПоясняющийТекст</TextColor>
 							<Title formatted="false">
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Просмотр и оценка результатов замеров производительности.</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Viewing and assessment of performance measurement results.</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Просмотр и оценка результатов замеров производительности.</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -1228,12 +1228,12 @@ Managing text extraction from files.</v8:content>
 			<Visible>false</Visible>
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Адресный классификатор</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Address classifier</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Адресный классификатор</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -1453,12 +1453,12 @@ Managing text extraction from files.</v8:content>
 			<Visible>false</Visible>
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Адресный классификатор</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Address classifier</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Адресный классификатор</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -1618,12 +1618,12 @@ Managing text extraction from files.</v8:content>
 			<TitleFont ref="sys:DefaultGUIFont" height="11" bold="true" italic="false" underline="false" strikeout="false" kind="WindowsFont"/>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Классификаторы</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Classifiers</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Классификаторы</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -1728,12 +1728,12 @@ Managing text extraction from files.</v8:content>
 			<Visible>false</Visible>
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Защита персональных данных</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Personal data protection</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Защита персональных данных</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -1763,12 +1763,12 @@ Managing text extraction from files.</v8:content>
 							<TextColor>style:ПоясняющийТекст</TextColor>
 							<Title formatted="false">
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Регистрация событий доступа в соответствии с требованиями Федерального закона от 27.07.2006 N152-ФЗ "О персональных данных"</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Registration of the access events in accordance with the requirements of the Federal Law No. 152-FZ from 07/27/2006 "On personal data".</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Регистрация событий доступа в соответствии с требованиями Федерального закона от 27.07.2006 N152-ФЗ "О персональных данных"</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -1807,12 +1807,12 @@ Managing text extraction from files.</v8:content>
 							<TextColor>style:ПоясняющийТекст</TextColor>
 							<Title formatted="false">
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Просмотр обращений к персональным данным выбранных объектов программы.</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>View personal data requests of selected application objects.</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Просмотр обращений к персональным данным выбранных объектов программы.</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -1829,12 +1829,12 @@ Managing text extraction from files.</v8:content>
 		<UsualGroup name="ГруппаКорректировкаДанных" id="1755">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Корректировка данных</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Data adjustment</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Корректировка данных</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -2075,12 +2075,12 @@ Managing text extraction from files.</v8:content>
 		<UsualGroup name="ГруппаРезультатыОбновленияПрограммы" id="2041">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Результаты обновления программы</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Application update results</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Результаты обновления программы</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -2136,12 +2136,12 @@ Managing text extraction from files.</v8:content>
 									<TextColor>style:ПоясняющийТекст</TextColor>
 									<Title formatted="false">
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>История изменений по версиям программы.</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Change history by application versions.</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>История изменений по версиям программы.</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -2181,12 +2181,12 @@ Managing text extraction from files.</v8:content>
 									<TextColor>style:ПоясняющийТекст</TextColor>
 									<Title formatted="false">
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Сведения о ходе обновления версии программы, отложенное выполнение дополнительных процедур обработки данных.</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Information about the application version update progress, delayed execution of additional data processor procedures.</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Сведения о ходе обновления версии программы, отложенное выполнение дополнительных процедур обработки данных.</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -2230,12 +2230,12 @@ Managing text extraction from files.</v8:content>
 									<DataPath>НаборКонстант.ДетализироватьОбновлениеИБВЖурналеРегистрации</DataPath>
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Детализировать ход обновления в журнале регистрации</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Detalize the update progress in the event log</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Детализировать ход обновления в журнале регистрации</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -2254,12 +2254,12 @@ Managing text extraction from files.</v8:content>
 									<TextColor>style:ПоясняющийТекст</TextColor>
 									<Title formatted="false">
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Записывать в журнал регистрации подробную информацию о ходе выполнения обновления.</v8:content>
-										</v8:item>
-										<v8:item>
 											<v8:lang>en</v8:lang>
 											<v8:content>Record a detailed information about the update progress to the event log.</v8:content>
+										</v8:item>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Записывать в журнал регистрации подробную информацию о ходе выполнения обновления.</v8:content>
 										</v8:item>
 										<v8:item>
 											<v8:lang>ro</v8:lang>
@@ -2493,12 +2493,12 @@ Managing text extraction from files.</v8:content>
 		<Attribute name="НаборКонстант" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Набор констант</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Constants set</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Набор констант</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -2518,12 +2518,12 @@ Managing text extraction from files.</v8:content>
 		<Attribute name="РежимРаботы" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Режим работы (фиксированная структура)</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Work mode (fixed structure)</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Режим работы (фиксированная структура)</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -2621,12 +2621,12 @@ Managing text extraction from files.</v8:content>
 		<Command name="УправлениеПолнотекстовымПоискомИИзвлечениемТекстов" id="4">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Управление полнотекстовым поиском</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Full text search management</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Управление полнотекстовым поиском</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -2635,12 +2635,12 @@ Managing text extraction from files.</v8:content>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Управление полнотекстовым поиском и извлечением текстов</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Full-text search and text extraction management</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Управление полнотекстовым поиском и извлечением текстов</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -2653,12 +2653,12 @@ Managing text extraction from files.</v8:content>
 		<Command name="ОбработкаЗагрузкаКурсовВалют" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Загрузить курсы валют</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Export exchange rates</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Загрузить курсы валют</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -2684,12 +2684,12 @@ Managing text extraction from files.</v8:content>
 		<Command name="ЗагрузитьКлассификаторБанков" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Загрузить классификатор банков</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Import bank classifier</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Загрузить классификатор банков</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -2698,12 +2698,12 @@ Managing text extraction from files.</v8:content>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Загрузить классификатор банков</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Import bank classifier</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Загрузить классификатор банков</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -2716,12 +2716,12 @@ Managing text extraction from files.</v8:content>
 		<Command name="УдалениеПомеченныхНастроитьРасписание" id="11">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Настроить расписание</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Setup schedule</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Настроить расписание</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -2766,12 +2766,12 @@ Managing text extraction from files.</v8:content>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Регистр сведений "Настройки версионирования объектов"</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>"Object versioning settings" information register</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Регистр сведений "Настройки версионирования объектов"</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -2824,12 +2824,12 @@ Managing text extraction from files.</v8:content>
 		<Command name="РезультатыОбновленияИДополнительнаяОбработкаДанных" id="8">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Результаты обновления и дополнительная обработка данных</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Update results and additional data processing</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Результаты обновления и дополнительная обработка данных</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -2838,12 +2838,12 @@ Managing text extraction from files.</v8:content>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Результаты обновления и дополнительная обработка данных</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Update results and additional data processing</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Результаты обновления и дополнительная обработка данных</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>

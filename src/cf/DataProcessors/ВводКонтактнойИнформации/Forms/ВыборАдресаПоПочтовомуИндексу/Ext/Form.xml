@@ -186,7 +186,7 @@
 							<EditMode>EnterOnInput</EditMode>
 							<ValuesPicture>
 								<xr:Ref>CommonPicture.КонтактнаяИнформацияНеактуально</xr:Ref>
-								<xr:LoadTransparent>true</xr:LoadTransparent>
+								<xr:LoadTransparent>false</xr:LoadTransparent>
 							</ValuesPicture>
 							<FileDragMode>AsFile</FileDragMode>
 							<ContextMenu name="ВариантыАдресаАктуальностьКонтекстноеМеню" id="19"/>

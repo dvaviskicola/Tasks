@@ -43,8 +43,8 @@
 	</AutoCommandBar>
 	<Events>
 		<Event name="NotificationProcessing">ОбработкаОповещения</Event>
-		<Event name="OnReadAtServer">ПриЧтенииНаСервере</Event>
 		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+		<Event name="OnReadAtServer">ПриЧтенииНаСервере</Event>
 	</Events>
 	<ChildItems>
 		<UsualGroup name="ГруппаФормаВыполнения" id="93">
@@ -519,9 +519,9 @@
 			<Item>
 				<Command>Task.ЗадачаИсполнителя.Command.Выполнено</Command>
 				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
 				<CommandGroup>FormCommandBarImportant</CommandGroup>
 				<Index>1</Index>
-				<DefaultVisible>false</DefaultVisible>
 				<Visible>
 					<xr:Common>false</xr:Common>
 				</Visible>

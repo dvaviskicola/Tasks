@@ -52,7 +52,6 @@
 			<SearchStringLocation>None</SearchStringLocation>
 			<ViewStatusLocation>None</ViewStatusLocation>
 			<SearchControlLocation>None</SearchControlLocation>
-			<TreeSpecialSearch>false</TreeSpecialSearch>
 			<ContextMenu name="РеквизитыОбъектаКонтекстноеМеню" id="14"/>
 			<AutoCommandBar name="РеквизитыОбъектаКоманднаяПанель" id="15">
 				<Autofill>false</Autofill>

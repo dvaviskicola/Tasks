@@ -27,12 +27,12 @@
 			<Name>узСпринты</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Спринты</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Sprints</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Спринты</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -334,12 +334,12 @@
 					<Name>ДатаНачала</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Дата начала</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>ro</v8:lang>
 							<v8:content>Data începutului</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Дата начала</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -381,12 +381,12 @@
 					<Name>ДатаОкончания</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Дата окончания</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>End date</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Дата окончания</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>

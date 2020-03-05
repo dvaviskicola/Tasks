@@ -154,7 +154,6 @@
 					<SearchStringLocation>None</SearchStringLocation>
 					<ViewStatusLocation>None</ViewStatusLocation>
 					<SearchControlLocation>None</SearchControlLocation>
-					<TreeSpecialSearch>false</TreeSpecialSearch>
 					<ContextMenu name="ГруппыПользователейКонтекстноеМеню" id="13">
 						<Autofill>false</Autofill>
 						<ChildItems>

@@ -203,12 +203,12 @@
 				<LabelDecoration name="НадписьПросрочка" id="42">
 					<Title formatted="false">
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>дн.</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>ro</v8:lang>
 							<v8:content>zile</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>дн.</v8:content>
 						</v8:item>
 					</Title>
 					<ContextMenu name="НадписьПросрочкаКонтекстноеМеню" id="43"/>

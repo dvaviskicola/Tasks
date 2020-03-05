@@ -46,7 +46,7 @@
 				</ToolTip>
 				<Picture>
 					<xr:Ref>CommonPicture.ПодписанЗашифрованЗаголовок</xr:Ref>
-					<xr:LoadTransparent>true</xr:LoadTransparent>
+					<xr:LoadTransparent>false</xr:LoadTransparent>
 				</Picture>
 				<Representation>Picture</Representation>
 				<ExtendedTooltip name="ФормаГруппаКомандЭлектроннаяПодписьИШифрованиеРасширеннаяПодсказка" id="233"/>
@@ -157,16 +157,16 @@
 		</ChildItems>
 	</AutoCommandBar>
 	<Events>
-		<Event name="AfterWrite">ПослеЗаписи</Event>
-		<Event name="AfterWriteAtServer">ПослеЗаписиНаСервере</Event>
 		<Event name="NotificationProcessing">ОбработкаОповещения</Event>
-		<Event name="OnReadAtServer">ПриЧтенииНаСервере</Event>
 		<Event name="OnOpen">ПриОткрытии</Event>
 		<Event name="BeforeClose">ПередЗакрытием</Event>
-		<Event name="BeforeWrite">ПередЗаписью</Event>
 		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
-		<Event name="BeforeWriteAtServer">ПередЗаписьюНаСервере</Event>
 		<Event name="FillCheckProcessingAtServer">ОбработкаПроверкиЗаполненияНаСервере</Event>
+		<Event name="AfterWrite">ПослеЗаписи</Event>
+		<Event name="AfterWriteAtServer">ПослеЗаписиНаСервере</Event>
+		<Event name="OnReadAtServer">ПриЧтенииНаСервере</Event>
+		<Event name="BeforeWrite">ПередЗаписью</Event>
+		<Event name="BeforeWriteAtServer">ПередЗаписьюНаСервере</Event>
 	</Events>
 	<ChildItems>
 		<UsualGroup name="ГруппаОсновная" id="145">
@@ -1306,6 +1306,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 	</Attributes>
 	<Commands>
@@ -1741,8 +1742,8 @@
 			<Item>
 				<Command>0</Command>
 				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
 				<Index>2</Index>
-				<DefaultVisible>false</DefaultVisible>
 			</Item>
 			<Item>
 				<Command>0</Command>
@@ -1757,8 +1758,8 @@
 			<Item>
 				<Command>0</Command>
 				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
 				<Index>1</Index>
-				<DefaultVisible>false</DefaultVisible>
 			</Item>
 			<Item>
 				<Command>0</Command>

@@ -154,7 +154,7 @@
 					<EditMode>EnterOnInput</EditMode>
 					<HeaderPicture>
 						<xr:Ref>CommonPicture.ЭлектронноеПисьмо</xr:Ref>
-						<xr:LoadTransparent>true</xr:LoadTransparent>
+						<xr:LoadTransparent>false</xr:LoadTransparent>
 					</HeaderPicture>
 					<CheckBoxType>Auto</CheckBoxType>
 					<ContextMenu name="ПолучателиСообщенияВыбранКонтекстноеМеню" id="15"/>

@@ -35,12 +35,12 @@
 					<VerticalStretch>false</VerticalStretch>
 					<Title formatted="false">
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Настройка печатных форм, вариантов отчетов, рассылок отчетов, дополнительных отчетов и обработок.</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Use this section to customize print forms, report variants, report mailings, additional reports, and data processors.</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Настройка печатных форм, вариантов отчетов, рассылок отчетов, дополнительных отчетов и обработок.</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -80,12 +80,12 @@
 				<UsualGroup name="ГруппаОткрытьМакетыПечатныхФорм" id="1381">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа открыть макеты печатных форм</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Group open print form templates</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа открыть макеты печатных форм</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -94,12 +94,12 @@
 					</Title>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа открыть макеты печатных форм</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Group open print form templates</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа открыть макеты печатных форм</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -122,12 +122,12 @@
 							<TextColor>style:ПоясняющийТекст</TextColor>
 							<Title formatted="false">
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Настройка макетов печатных форм документов.</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Document print form templates setup</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Настройка макетов печатных форм документов.</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -369,12 +369,12 @@
 							<DataPath>НаборКонстант.ИспользоватьДополнительныеОтчетыИОбработки</DataPath>
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Дополнительные отчеты и обработки</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Additional reports and data processors</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Дополнительные отчеты и обработки</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -394,12 +394,12 @@
 							<TextColor>style:ПоясняющийТекст</TextColor>
 							<Title formatted="false">
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Использование внешних печатных форм, отчетов и обработок в дополнение к предусмотренным в программе.</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Use of external print forms, reports and data processors in addition to those provided by the application.</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Использование внешних печатных форм, отчетов и обработок в дополнение к предусмотренным в программе.</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -429,12 +429,12 @@
 							<TextColor>style:ПоясняющийТекст</TextColor>
 							<Title formatted="false">
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Подключение внешних печатных форм, отчетов и обработок в дополнение к предусмотренным в программе.</v8:content>
-								</v8:item>
-								<v8:item>
 									<v8:lang>en</v8:lang>
 									<v8:content>Connection of the external print forms, reports and data processors in addition to those provided in the application.</v8:content>
+								</v8:item>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Подключение внешних печатных форм, отчетов и обработок в дополнение к предусмотренным в программе.</v8:content>
 								</v8:item>
 								<v8:item>
 									<v8:lang>ro</v8:lang>
@@ -462,12 +462,12 @@
 		<Attribute name="РежимРаботы" id="15">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Режим работы</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Work mode</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Режим работы</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -481,12 +481,12 @@
 		<Command name="СправочникДополнительныеОтчетыИОбработки" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Дополнительные отчеты и обработки</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Additional reports and data processors</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Дополнительные отчеты и обработки</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -495,12 +495,12 @@
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Дополнительные отчеты и обработки</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Additional reports and data processors</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Дополнительные отчеты и обработки</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>

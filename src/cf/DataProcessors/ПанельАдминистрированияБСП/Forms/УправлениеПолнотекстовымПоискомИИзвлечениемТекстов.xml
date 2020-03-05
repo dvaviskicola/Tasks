@@ -5,12 +5,12 @@
 			<Name>УправлениеПолнотекстовымПоискомИИзвлечениемТекстов</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Управление полнотекстовым поиском и извлечением текстов</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Full-text search and text extraction management</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Управление полнотекстовым поиском и извлечением текстов</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>

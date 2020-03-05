@@ -169,7 +169,6 @@
 			<SearchStringLocation>None</SearchStringLocation>
 			<ViewStatusLocation>None</ViewStatusLocation>
 			<SearchControlLocation>None</SearchControlLocation>
-			<TreeSpecialSearch>false</TreeSpecialSearch>
 			<ContextMenu name="ДеревоОбъектовМетаданныхКонтекстноеМеню" id="12">
 				<Autofill>false</Autofill>
 				<ChildItems>
@@ -606,6 +605,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="АвтоматическиУдалятьУстаревшиеВерсии" id="4">
 			<Title>
@@ -633,6 +633,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="СписокВыбораДокументы" id="7">
 			<Title>
@@ -644,6 +645,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ТекущееФоновоеЗадание" id="1">
 			<Title>

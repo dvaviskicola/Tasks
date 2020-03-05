@@ -103,7 +103,6 @@
 							<SearchStringLocation>None</SearchStringLocation>
 							<ViewStatusLocation>None</ViewStatusLocation>
 							<SearchControlLocation>None</SearchControlLocation>
-							<TreeSpecialSearch>false</TreeSpecialSearch>
 							<ContextMenu name="ДеревоГруппКонтекстноеМеню" id="2"/>
 							<AutoCommandBar name="ДеревоГруппКоманднаяПанель" id="3">
 								<Autofill>false</Autofill>

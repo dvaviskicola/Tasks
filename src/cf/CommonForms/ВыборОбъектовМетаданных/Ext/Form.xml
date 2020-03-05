@@ -62,7 +62,6 @@
 			<SearchStringLocation>None</SearchStringLocation>
 			<ViewStatusLocation>None</ViewStatusLocation>
 			<SearchControlLocation>None</SearchControlLocation>
-			<TreeSpecialSearch>false</TreeSpecialSearch>
 			<ContextMenu name="ДеревоОбъектовМетаданныхКонтекстноеМеню" id="2"/>
 			<AutoCommandBar name="ДеревоОбъектовМетаданныхКоманднаяПанель" id="3"/>
 			<ExtendedTooltip name="ДеревоОбъектовМетаданныхExtendedTooltip" id="19"/>
@@ -253,6 +252,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ЭлементыПодсистемСКоманднымИнтерфейсом" id="3">
 			<Title>
@@ -264,6 +264,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ВыборЕдинственного" id="4">
 			<Title>

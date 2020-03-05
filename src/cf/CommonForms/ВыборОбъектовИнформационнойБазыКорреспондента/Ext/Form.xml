@@ -36,7 +36,6 @@
 			<SearchStringLocation>None</SearchStringLocation>
 			<ViewStatusLocation>None</ViewStatusLocation>
 			<SearchControlLocation>None</SearchControlLocation>
-			<TreeSpecialSearch>false</TreeSpecialSearch>
 			<ContextMenu name="СписокКонтекстноеМеню" id="2">
 				<Autofill>false</Autofill>
 				<ChildItems>

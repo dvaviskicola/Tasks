@@ -98,7 +98,7 @@
 				</ToolTip>
 				<Picture>
 					<xr:Ref>CommonPicture.ПодписанЗашифрованЗаголовок</xr:Ref>
-					<xr:LoadTransparent>true</xr:LoadTransparent>
+					<xr:LoadTransparent>false</xr:LoadTransparent>
 				</Picture>
 				<Representation>Picture</Representation>
 				<ExtendedTooltip name="ФормаГруппаКомандЭлектроннаяПодписьИШифрованиеРасширеннаяПодсказка" id="70"/>
@@ -1091,6 +1091,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 	</Attributes>
 	<Commands>

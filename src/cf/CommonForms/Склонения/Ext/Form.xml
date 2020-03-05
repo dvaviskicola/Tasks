@@ -141,7 +141,7 @@
 							<Height>1</Height>
 							<Picture>
 								<xr:Ref>CommonPicture.Информация</xr:Ref>
-								<xr:LoadTransparent>true</xr:LoadTransparent>
+								<xr:LoadTransparent>false</xr:LoadTransparent>
 							</Picture>
 							<FileDragMode>AsFile</FileDragMode>
 							<ContextMenu name="ДекорацияКартинкаКонтекстноеМеню" id="41"/>
@@ -184,7 +184,7 @@
 							<Height>1</Height>
 							<Picture>
 								<xr:Ref>CommonPicture.Предупреждение</xr:Ref>
-								<xr:LoadTransparent>true</xr:LoadTransparent>
+								<xr:LoadTransparent>false</xr:LoadTransparent>
 							</Picture>
 							<FileDragMode>AsFile</FileDragMode>
 							<ContextMenu name="ДекорацияКартинкаПредупреждениеКонтекстноеМеню" id="53"/>
@@ -427,7 +427,7 @@
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.ЗаполнитьФорму</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Action>КомандаПросклонятьПовторно</Action>
 			<Representation>Picture</Representation>

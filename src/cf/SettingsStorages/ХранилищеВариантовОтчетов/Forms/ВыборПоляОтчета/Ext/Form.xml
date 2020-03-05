@@ -261,7 +261,7 @@
 							<RowPictureDataPath>ПоляГруппировки.ИндексКартинки</RowPictureDataPath>
 							<RowsPicture>
 								<xr:Ref>CommonPicture.ПиктограммыНастроекОтчета</xr:Ref>
-								<xr:LoadTransparent>true</xr:LoadTransparent>
+								<xr:LoadTransparent>false</xr:LoadTransparent>
 							</RowsPicture>
 							<CommandSet>
 								<ExcludedCommand>Add</ExcludedCommand>
@@ -274,7 +274,6 @@
 								<ExcludedCommand>SortListAsc</ExcludedCommand>
 								<ExcludedCommand>SortListDesc</ExcludedCommand>
 							</CommandSet>
-							<TreeSpecialSearch>false</TreeSpecialSearch>
 							<ContextMenu name="ПоляГруппировкиТаблицаКонтекстноеМеню" id="73"/>
 							<AutoCommandBar name="ПоляГруппировкиТаблицаКоманднаяПанель" id="74"/>
 							<ExtendedTooltip name="ПоляГруппировкиТаблицаРасширеннаяПодсказка" id="75"/>

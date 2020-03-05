@@ -62,7 +62,6 @@
 					<SearchStringLocation>None</SearchStringLocation>
 					<ViewStatusLocation>None</ViewStatusLocation>
 					<SearchControlLocation>None</SearchControlLocation>
-					<TreeSpecialSearch>false</TreeSpecialSearch>
 					<ContextMenu name="ДеревоФайловКонтекстноеМеню" id="32"/>
 					<AutoCommandBar name="ДеревоФайловКоманднаяПанель" id="33"/>
 					<ExtendedTooltip name="ДеревоФайловExtendedTooltip" id="50"/>
@@ -331,6 +330,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ДеревоФайлов" id="9">
 			<Title>

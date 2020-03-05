@@ -24,9 +24,9 @@
 		</ChildItems>
 	</AutoCommandBar>
 	<Events>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 		<Event name="AfterWrite">ПослеЗаписи</Event>
 		<Event name="OnReadAtServer">ПриЧтенииНаСервере</Event>
-		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 		<Event name="BeforeWriteAtServer">ПередЗаписьюНаСервере</Event>
 	</Events>
 	<ChildItems>
@@ -190,12 +190,12 @@
 				<LabelDecoration name="НадписьАвтор" id="92">
 					<Title formatted="false">
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Автор:</v8:content>
-						</v8:item>
-						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Author:</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Автор:</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>ro</v8:lang>
@@ -250,12 +250,12 @@
 		<Attribute name="ФорматированныйТекст" id="4">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Форматированный текст</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Rich text</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Форматированный текст</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>

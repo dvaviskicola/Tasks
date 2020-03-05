@@ -5,12 +5,12 @@
 			<Name>узУправлениеЗадачами</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Управление задачами</v8:content>
-				</v8:item>
-				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Task Management</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Управление задачами</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ro</v8:lang>
@@ -23,7 +23,7 @@
 			<Explanation/>
 			<Picture>
 				<xr:Ref>CommonPicture.узЗадачи</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</Picture>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.узОбновлениеИнформационнойБазы</xr:Item>

@@ -879,6 +879,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="СписокПолейТаблицы" id="11">
 			<Title>
@@ -890,6 +891,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="АдресВременногоХранилищаТаблицыНеутвержденныхСвязей" id="12">
 			<Title>
@@ -916,6 +918,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="ВыдаватьПредупреждениеПриЗакрытииФормы" id="14">
 			<Title>

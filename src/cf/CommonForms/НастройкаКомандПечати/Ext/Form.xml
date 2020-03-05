@@ -81,7 +81,6 @@
 			<SearchStringLocation>None</SearchStringLocation>
 			<ViewStatusLocation>None</ViewStatusLocation>
 			<SearchControlLocation>None</SearchControlLocation>
-			<TreeSpecialSearch>false</TreeSpecialSearch>
 			<ContextMenu name="КомандыПечатиКонтекстноеМеню" id="2"/>
 			<AutoCommandBar name="КомандыПечатиКоманднаяПанель" id="3">
 				<Autofill>false</Autofill>
@@ -330,6 +329,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<ConditionalAppearance>
 			<dcsset:item>

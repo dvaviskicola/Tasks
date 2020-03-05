@@ -26,7 +26,7 @@
 					<Height>2</Height>
 					<Picture>
 						<xr:Ref>CommonPicture.Ошибка32</xr:Ref>
-						<xr:LoadTransparent>true</xr:LoadTransparent>
+						<xr:LoadTransparent>false</xr:LoadTransparent>
 					</Picture>
 					<FileDragMode>AsFile</FileDragMode>
 					<ContextMenu name="Декорация2КонтекстноеМеню" id="27"/>

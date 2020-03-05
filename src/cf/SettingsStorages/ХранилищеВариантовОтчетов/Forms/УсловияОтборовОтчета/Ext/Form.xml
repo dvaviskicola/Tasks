@@ -36,7 +36,7 @@
 			<DataPath>Отборы</DataPath>
 			<RowsPicture>
 				<xr:Ref>CommonPicture.ПиктограммыПараметровИОтборов</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
+				<xr:LoadTransparent>false</xr:LoadTransparent>
 			</RowsPicture>
 			<CommandSet>
 				<ExcludedCommand>Change</ExcludedCommand>
@@ -53,7 +53,6 @@
 				<ExcludedCommand>SortListDesc</ExcludedCommand>
 				<ExcludedCommand>Tree</ExcludedCommand>
 			</CommandSet>
-			<TreeSpecialSearch>false</TreeSpecialSearch>
 			<ContextMenu name="ОтборыКонтекстноеМеню" id="29">
 				<Autofill>false</Autofill>
 			</ContextMenu>

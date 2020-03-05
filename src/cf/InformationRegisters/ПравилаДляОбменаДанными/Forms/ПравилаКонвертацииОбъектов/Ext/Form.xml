@@ -48,9 +48,9 @@
 		</ChildItems>
 	</AutoCommandBar>
 	<Events>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 		<Event name="AfterWrite">ПослеЗаписи</Event>
 		<Event name="BeforeWrite">ПередЗаписью</Event>
-		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 	</Events>
 	<ChildItems>
 		<UsualGroup name="ГруппаПланаОбмена" id="26">

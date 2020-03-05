@@ -158,7 +158,6 @@
 				<ExcludedCommand>SortListDesc</ExcludedCommand>
 				<ExcludedCommand>Tree</ExcludedCommand>
 			</CommandSet>
-			<TreeSpecialSearch>false</TreeSpecialSearch>
 			<ContextMenu name="ДеревоОбъектовМетаданныхКонтекстноеМеню" id="4"/>
 			<AutoCommandBar name="ДеревоОбъектовМетаданныхКоманднаяПанель" id="5"/>
 			<ExtendedTooltip name="ДеревоОбъектовМетаданныхРасширеннаяПодсказка" id="6"/>
@@ -512,6 +511,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="СписокВыбораБезВерсий" id="3">
 			<Title>
@@ -523,6 +523,7 @@
 			<Type>
 				<v8:Type>v8:ValueListType</v8:Type>
 			</Type>
+			<Settings xsi:type="v8:TypeDescription"/>
 		</Attribute>
 		<Attribute name="АвтоматическиОчищатьНенужныеФайлы" id="4">
 			<Title>
